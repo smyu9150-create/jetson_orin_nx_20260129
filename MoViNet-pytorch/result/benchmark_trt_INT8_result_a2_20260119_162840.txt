@@ -1,0 +1,306 @@
+=== MoViNet TensorRT INT8 Benchmark Report ===
+Date: 20260119_162840
+Model: MoViNet-A2 (INT8 Quantized)
+Input Shape: (1, 3, 8, 224, 224)
+Total Images: 297
+Average FPS: 30.87
+==========================================================================================
+Folder               | File                           | Prediction                | Score
+------------------------------------------------------------------------------------------
+Abuse                | Abuse028_x264_0.png            | presenting weather forecast | 66.9%
+Abuse                | Abuse028_x264_10.png           | presenting weather forecast | 71.4%
+Abuse                | Abuse028_x264_100.png          | tagging graffiti          | 27.5%
+Abuse                | Abuse028_x264_1000.png         | parkour                   | 10.5%
+Abuse                | Abuse028_x264_1010.png         | parkour                   | 10.2%
+Abuse                | Abuse028_x264_1020.png         | parkour                   | 9.8%
+Abuse                | Abuse028_x264_1030.png         | lunge                     | 17.1%
+Abuse                | Abuse028_x264_1040.png         | parkour                   | 13.4%
+Abuse                | Abuse028_x264_1050.png         | parkour                   | 42.7%
+Abuse                | Abuse028_x264_1060.png         | parkour                   | 32.3%
+Abuse                | Abuse028_x264_1070.png         | delivering mail           | 35.9%
+Abuse                | Abuse028_x264_1080.png         | delivering mail           | 41.4%
+Abuse                | Abuse028_x264_1090.png         | yoga                      | 14.3%
+Abuse                | Abuse028_x264_110.png          | delivering mail           | 19.1%
+Abuse                | Abuse028_x264_1100.png         | spray painting            | 19.0%
+Abuse                | Abuse028_x264_1110.png         | delivering mail           | 12.5%
+Abuse                | Abuse028_x264_1120.png         | delivering mail           | 9.9%
+Abuse                | Abuse028_x264_1130.png         | delivering mail           | 8.6%
+Abuse                | Abuse028_x264_1140.png         | delivering mail           | 7.5%
+Abuse                | Abuse028_x264_1150.png         | tagging graffiti          | 24.9%
+Abuse                | Abuse028_x264_1160.png         | tagging graffiti          | 57.4%
+Abuse                | Abuse028_x264_1170.png         | presenting weather forecast | 15.8%
+Abuse                | Abuse028_x264_1180.png         | presenting weather forecast | 20.1%
+Abuse                | Abuse028_x264_1190.png         | presenting weather forecast | 12.1%
+Abuse                | Abuse028_x264_120.png          | tagging graffiti          | 59.4%
+Abuse                | Abuse028_x264_1200.png         | delivering mail           | 22.3%
+Abuse                | Abuse028_x264_1210.png         | delivering mail           | 21.9%
+Abuse                | Abuse028_x264_1220.png         | delivering mail           | 13.6%
+Abuse                | Abuse028_x264_1230.png         | delivering mail           | 19.4%
+Abuse                | Abuse028_x264_1240.png         | delivering mail           | 11.7%
+Abuse                | Abuse028_x264_1250.png         | tagging graffiti          | 17.7%
+Abuse                | Abuse028_x264_1260.png         | tagging graffiti          | 66.9%
+Abuse                | Abuse028_x264_1270.png         | presenting weather forecast | 12.4%
+Abuse                | Abuse028_x264_1280.png         | presenting weather forecast | 15.0%
+Abuse                | Abuse028_x264_1290.png         | presenting weather forecast | 11.5%
+Abuse                | Abuse028_x264_130.png          | delivering mail           | 26.8%
+Abuse                | Abuse028_x264_1300.png         | tagging graffiti          | 30.1%
+Abuse                | Abuse028_x264_1310.png         | mowing lawn               | 31.6%
+Abuse                | Abuse028_x264_1320.png         | mowing lawn               | 45.9%
+Abuse                | Abuse028_x264_1330.png         | mowing lawn               | 45.6%
+Abuse                | Abuse028_x264_1340.png         | mowing lawn               | 25.9%
+Abuse                | Abuse028_x264_1350.png         | delivering mail           | 27.6%
+Abuse                | Abuse028_x264_1360.png         | tagging graffiti          | 37.3%
+Abuse                | Abuse028_x264_1370.png         | attending conference      | 12.5%
+Abuse                | Abuse028_x264_1380.png         | attending conference      | 11.5%
+Abuse                | Abuse028_x264_1390.png         | presenting weather forecast | 16.2%
+Abuse                | Abuse028_x264_140.png          | tagging graffiti          | 22.4%
+Abuse                | Abuse028_x264_1400.png         | delivering mail           | 24.9%
+Abuse                | Abuse028_x264_1410.png         | delivering mail           | 21.5%
+Abuse                | Abuse028_x264_150.png          | building shed             | 11.4%
+Abuse                | Abuse028_x264_160.png          | building shed             | 9.2%
+Abuse                | Abuse028_x264_170.png          | building shed             | 13.5%
+Abuse                | Abuse028_x264_180.png          | jumpstyle dancing         | 27.8%
+Abuse                | Abuse028_x264_190.png          | jumpstyle dancing         | 11.0%
+Abuse                | Abuse028_x264_20.png           | building shed             | 9.6%
+Abuse                | Abuse028_x264_200.png          | jumpstyle dancing         | 13.5%
+Abuse                | Abuse028_x264_210.png          | jumpstyle dancing         | 33.9%
+Abuse                | Abuse028_x264_220.png          | jumpstyle dancing         | 13.5%
+Abuse                | Abuse028_x264_230.png          | cleaning windows          | 15.7%
+Abuse                | Abuse028_x264_240.png          | delivering mail           | 10.4%
+Abuse                | Abuse028_x264_250.png          | jumpstyle dancing         | 11.8%
+Abuse                | Abuse028_x264_260.png          | jumpstyle dancing         | 22.0%
+Abuse                | Abuse028_x264_270.png          | delivering mail           | 87.1%
+Abuse                | Abuse028_x264_280.png          | delivering mail           | 73.2%
+Abuse                | Abuse028_x264_290.png          | delivering mail           | 44.3%
+Abuse                | Abuse028_x264_30.png           | parkour                   | 28.8%
+Abuse                | Abuse028_x264_300.png          | feeding birds             | 20.4%
+Abuse                | Abuse028_x264_310.png          | feeding birds             | 29.8%
+Abuse                | Abuse028_x264_320.png          | feeding birds             | 20.4%
+Abuse                | Abuse028_x264_330.png          | building shed             | 21.6%
+Abuse                | Abuse028_x264_340.png          | building shed             | 16.6%
+Abuse                | Abuse028_x264_350.png          | building shed             | 11.5%
+Abuse                | Abuse028_x264_360.png          | parkour                   | 23.9%
+Abuse                | Abuse028_x264_370.png          | delivering mail           | 39.2%
+Abuse                | Abuse028_x264_380.png          | jumping bicycle           | 37.8%
+Abuse                | Abuse028_x264_390.png          | delivering mail           | 38.5%
+Abuse                | Abuse028_x264_40.png           | delivering mail           | 30.8%
+Abuse                | Abuse028_x264_400.png          | delivering mail           | 20.2%
+Abuse                | Abuse028_x264_410.png          | mowing lawn               | 17.9%
+Abuse                | Abuse028_x264_420.png          | delivering mail           | 12.5%
+Abuse                | Abuse028_x264_430.png          | delivering mail           | 17.9%
+Abuse                | Abuse028_x264_440.png          | mowing lawn               | 16.9%
+Abuse                | Abuse028_x264_450.png          | mowing lawn               | 10.1%
+Abuse                | Abuse028_x264_460.png          | playing basketball        | 24.8%
+Abuse                | Abuse028_x264_470.png          | playing ping pong         | 38.4%
+Abuse                | Abuse028_x264_480.png          | presenting weather forecast | 30.7%
+Abuse                | Abuse028_x264_490.png          | presenting weather forecast | 22.6%
+Abuse                | Abuse028_x264_50.png           | delivering mail           | 13.0%
+Abuse                | Abuse028_x264_500.png          | jumpstyle dancing         | 27.3%
+Abuse                | Abuse028_x264_510.png          | jumpstyle dancing         | 14.2%
+Abuse                | Abuse028_x264_520.png          | jumpstyle dancing         | 9.5%
+Abuse                | Abuse028_x264_530.png          | bouncing on trampoline    | 7.6%
+Abuse                | Abuse028_x264_540.png          | delivering mail           | 12.9%
+Abuse                | Abuse028_x264_550.png          | jumpstyle dancing         | 15.0%
+Abuse                | Abuse028_x264_560.png          | parkour                   | 8.9%
+Abuse                | Abuse028_x264_570.png          | attending conference      | 14.0%
+Abuse                | Abuse028_x264_580.png          | attending conference      | 22.1%
+Abuse                | Abuse028_x264_590.png          | delivering mail           | 20.8%
+Abuse                | Abuse028_x264_60.png           | parkour                   | 15.4%
+Abuse                | Abuse028_x264_600.png          | jumpstyle dancing         | 12.1%
+Abuse                | Abuse028_x264_610.png          | parkour                   | 12.6%
+Abuse                | Abuse028_x264_620.png          | gymnastics tumbling       | 23.6%
+Abuse                | Abuse028_x264_630.png          | gymnastics tumbling       | 9.8%
+Abuse                | Abuse028_x264_640.png          | gymnastics tumbling       | 13.7%
+Abuse                | Abuse028_x264_650.png          | gymnastics tumbling       | 14.6%
+Abuse                | Abuse028_x264_660.png          | faceplanting              | 13.7%
+Abuse                | Abuse028_x264_670.png          | delivering mail           | 75.7%
+Abuse                | Abuse028_x264_680.png          | delivering mail           | 94.2%
+Abuse                | Abuse028_x264_690.png          | delivering mail           | 82.9%
+Abuse                | Abuse028_x264_70.png           | delivering mail           | 27.0%
+Abuse                | Abuse028_x264_700.png          | delivering mail           | 35.9%
+Abuse                | Abuse028_x264_710.png          | delivering mail           | 26.6%
+Abuse                | Abuse028_x264_720.png          | delivering mail           | 16.5%
+Abuse                | Abuse028_x264_730.png          | delivering mail           | 10.7%
+Abuse                | Abuse028_x264_740.png          | tagging graffiti          | 41.7%
+Abuse                | Abuse028_x264_750.png          | tagging graffiti          | 60.4%
+Abuse                | Abuse028_x264_760.png          | tagging graffiti          | 68.7%
+Abuse                | Abuse028_x264_770.png          | delivering mail           | 17.6%
+Abuse                | Abuse028_x264_780.png          | chiseling stone           | 13.8%
+Abuse                | Abuse028_x264_790.png          | delivering mail           | 19.4%
+Abuse                | Abuse028_x264_80.png           | tagging graffiti          | 25.1%
+Abuse                | Abuse028_x264_800.png          | tagging graffiti          | 27.8%
+Abuse                | Abuse028_x264_810.png          | tagging graffiti          | 17.2%
+Abuse                | Abuse028_x264_820.png          | delivering mail           | 17.2%
+Abuse                | Abuse028_x264_830.png          | delivering mail           | 23.9%
+Abuse                | Abuse028_x264_840.png          | delivering mail           | 19.2%
+Abuse                | Abuse028_x264_850.png          | delivering mail           | 26.4%
+Abuse                | Abuse028_x264_860.png          | delivering mail           | 22.7%
+Abuse                | Abuse028_x264_870.png          | tai chi                   | 30.0%
+Abuse                | Abuse028_x264_880.png          | delivering mail           | 61.7%
+Abuse                | Abuse028_x264_890.png          | delivering mail           | 33.4%
+Abuse                | Abuse028_x264_90.png           | delivering mail           | 29.8%
+Abuse                | Abuse028_x264_900.png          | skateboarding             | 12.7%
+Abuse                | Abuse028_x264_910.png          | skateboarding             | 10.2%
+Abuse                | Abuse028_x264_920.png          | skateboarding             | 9.9%
+Abuse                | Abuse028_x264_930.png          | skateboarding             | 15.8%
+Abuse                | Abuse028_x264_940.png          | delivering mail           | 12.3%
+Abuse                | Abuse028_x264_950.png          | parkour                   | 7.4%
+Abuse                | Abuse028_x264_960.png          | skateboarding             | 14.2%
+Abuse                | Abuse028_x264_970.png          | delivering mail           | 46.0%
+Abuse                | Abuse028_x264_980.png          | delivering mail           | 25.9%
+Abuse                | Abuse028_x264_990.png          | delivering mail           | 66.7%
+Abuse                | Abuse030_x264_0.png            | delivering mail           | 38.8%
+Abuse                | Abuse030_x264_10.png           | delivering mail           | 72.8%
+Abuse                | Abuse030_x264_100.png          | delivering mail           | 76.6%
+Abuse                | Abuse030_x264_1000.png         | delivering mail           | 50.1%
+Abuse                | Abuse030_x264_1010.png         | delivering mail           | 38.4%
+Abuse                | Abuse030_x264_1020.png         | delivering mail           | 15.3%
+Abuse                | Abuse030_x264_1030.png         | delivering mail           | 16.6%
+Abuse                | Abuse030_x264_1040.png         | delivering mail           | 41.1%
+Abuse                | Abuse030_x264_1050.png         | delivering mail           | 46.3%
+Abuse                | Abuse030_x264_1060.png         | delivering mail           | 16.2%
+Abuse                | Abuse030_x264_1070.png         | delivering mail           | 13.9%
+Abuse                | Abuse030_x264_1080.png         | delivering mail           | 20.0%
+Abuse                | Abuse030_x264_1090.png         | pumping gas               | 25.0%
+Abuse                | Abuse030_x264_110.png          | pumping gas               | 21.5%
+Abuse                | Abuse030_x264_1100.png         | delivering mail           | 14.1%
+Abuse                | Abuse030_x264_1110.png         | motorcycling              | 30.7%
+Abuse                | Abuse030_x264_1120.png         | jaywalking                | 30.4%
+Abuse                | Abuse030_x264_1130.png         | jaywalking                | 27.1%
+Abuse                | Abuse030_x264_1140.png         | jaywalking                | 47.0%
+Abuse                | Abuse030_x264_1150.png         | jaywalking                | 51.1%
+Abuse                | Abuse030_x264_1160.png         | jaywalking                | 54.8%
+Abuse                | Abuse030_x264_1170.png         | jaywalking                | 44.5%
+Abuse                | Abuse030_x264_1180.png         | jaywalking                | 52.6%
+Abuse                | Abuse030_x264_1190.png         | jaywalking                | 41.1%
+Abuse                | Abuse030_x264_120.png          | jaywalking                | 69.3%
+Abuse                | Abuse030_x264_1200.png         | jaywalking                | 54.2%
+Abuse                | Abuse030_x264_1210.png         | jaywalking                | 38.1%
+Abuse                | Abuse030_x264_1220.png         | jaywalking                | 24.4%
+Abuse                | Abuse030_x264_1230.png         | pumping gas               | 20.9%
+Abuse                | Abuse030_x264_1240.png         | delivering mail           | 16.1%
+Abuse                | Abuse030_x264_1250.png         | delivering mail           | 32.8%
+Abuse                | Abuse030_x264_1260.png         | delivering mail           | 28.5%
+Abuse                | Abuse030_x264_1270.png         | pumping gas               | 47.5%
+Abuse                | Abuse030_x264_1280.png         | pumping gas               | 33.7%
+Abuse                | Abuse030_x264_1290.png         | delivering mail           | 36.5%
+Abuse                | Abuse030_x264_130.png          | pumping gas               | 38.5%
+Abuse                | Abuse030_x264_1300.png         | delivering mail           | 52.5%
+Abuse                | Abuse030_x264_1310.png         | delivering mail           | 36.7%
+Abuse                | Abuse030_x264_1320.png         | delivering mail           | 28.7%
+Abuse                | Abuse030_x264_1330.png         | delivering mail           | 33.4%
+Abuse                | Abuse030_x264_1340.png         | delivering mail           | 41.3%
+Abuse                | Abuse030_x264_1350.png         | delivering mail           | 45.0%
+Abuse                | Abuse030_x264_1360.png         | pumping gas               | 37.7%
+Abuse                | Abuse030_x264_1370.png         | pumping gas               | 53.7%
+Abuse                | Abuse030_x264_1380.png         | pumping gas               | 59.8%
+Abuse                | Abuse030_x264_1390.png         | pumping gas               | 45.9%
+Abuse                | Abuse030_x264_140.png          | delivering mail           | 31.2%
+Abuse                | Abuse030_x264_1400.png         | delivering mail           | 57.5%
+Abuse                | Abuse030_x264_1410.png         | delivering mail           | 28.4%
+Abuse                | Abuse030_x264_1420.png         | delivering mail           | 15.1%
+Abuse                | Abuse030_x264_1430.png         | delivering mail           | 18.2%
+Abuse                | Abuse030_x264_1440.png         | delivering mail           | 38.1%
+Abuse                | Abuse030_x264_1450.png         | delivering mail           | 44.8%
+Abuse                | Abuse030_x264_1460.png         | delivering mail           | 48.8%
+Abuse                | Abuse030_x264_1470.png         | delivering mail           | 48.1%
+Abuse                | Abuse030_x264_1480.png         | delivering mail           | 46.2%
+Abuse                | Abuse030_x264_1490.png         | delivering mail           | 36.8%
+Abuse                | Abuse030_x264_150.png          | delivering mail           | 49.5%
+Abuse                | Abuse030_x264_1500.png         | delivering mail           | 70.8%
+Abuse                | Abuse030_x264_1510.png         | delivering mail           | 45.0%
+Abuse                | Abuse030_x264_1520.png         | delivering mail           | 40.1%
+Abuse                | Abuse030_x264_1530.png         | delivering mail           | 39.2%
+Abuse                | Abuse030_x264_1540.png         | delivering mail           | 27.2%
+Abuse                | Abuse030_x264_160.png          | delivering mail           | 15.8%
+Abuse                | Abuse030_x264_170.png          | delivering mail           | 44.9%
+Abuse                | Abuse030_x264_180.png          | delivering mail           | 62.0%
+Abuse                | Abuse030_x264_190.png          | delivering mail           | 57.0%
+Abuse                | Abuse030_x264_20.png           | delivering mail           | 54.9%
+Abuse                | Abuse030_x264_200.png          | delivering mail           | 11.6%
+Abuse                | Abuse030_x264_210.png          | delivering mail           | 14.9%
+Abuse                | Abuse030_x264_220.png          | delivering mail           | 29.1%
+Abuse                | Abuse030_x264_230.png          | delivering mail           | 34.8%
+Abuse                | Abuse030_x264_240.png          | delivering mail           | 33.1%
+Abuse                | Abuse030_x264_250.png          | delivering mail           | 25.2%
+Abuse                | Abuse030_x264_260.png          | delivering mail           | 14.0%
+Abuse                | Abuse030_x264_270.png          | delivering mail           | 34.1%
+Abuse                | Abuse030_x264_280.png          | delivering mail           | 42.0%
+Abuse                | Abuse030_x264_290.png          | delivering mail           | 44.0%
+Abuse                | Abuse030_x264_30.png           | jaywalking                | 25.4%
+Abuse                | Abuse030_x264_300.png          | delivering mail           | 38.8%
+Abuse                | Abuse030_x264_310.png          | delivering mail           | 32.9%
+Abuse                | Abuse030_x264_320.png          | delivering mail           | 25.5%
+Abuse                | Abuse030_x264_330.png          | delivering mail           | 37.3%
+Abuse                | Abuse030_x264_340.png          | delivering mail           | 42.0%
+Abuse                | Abuse030_x264_350.png          | delivering mail           | 24.1%
+Abuse                | Abuse030_x264_360.png          | delivering mail           | 49.6%
+Abuse                | Abuse030_x264_370.png          | delivering mail           | 59.6%
+Abuse                | Abuse030_x264_380.png          | delivering mail           | 54.8%
+Abuse                | Abuse030_x264_390.png          | delivering mail           | 50.4%
+Abuse                | Abuse030_x264_40.png           | changing oil              | 13.8%
+Abuse                | Abuse030_x264_400.png          | delivering mail           | 9.6%
+Abuse                | Abuse030_x264_410.png          | delivering mail           | 4.9%
+Abuse                | Abuse030_x264_420.png          | pumping gas               | 9.9%
+Abuse                | Abuse030_x264_430.png          | delivering mail           | 18.8%
+Abuse                | Abuse030_x264_440.png          | delivering mail           | 18.3%
+Abuse                | Abuse030_x264_450.png          | delivering mail           | 16.3%
+Abuse                | Abuse030_x264_460.png          | delivering mail           | 22.8%
+Abuse                | Abuse030_x264_470.png          | delivering mail           | 31.7%
+Abuse                | Abuse030_x264_480.png          | delivering mail           | 34.5%
+Abuse                | Abuse030_x264_490.png          | delivering mail           | 28.1%
+Abuse                | Abuse030_x264_50.png           | jaywalking                | 38.1%
+Abuse                | Abuse030_x264_500.png          | delivering mail           | 23.6%
+Abuse                | Abuse030_x264_510.png          | delivering mail           | 13.1%
+Abuse                | Abuse030_x264_520.png          | jaywalking                | 8.6%
+Abuse                | Abuse030_x264_530.png          | delivering mail           | 11.7%
+Abuse                | Abuse030_x264_540.png          | delivering mail           | 20.1%
+Abuse                | Abuse030_x264_550.png          | delivering mail           | 17.6%
+Abuse                | Abuse030_x264_560.png          | delivering mail           | 26.8%
+Abuse                | Abuse030_x264_570.png          | delivering mail           | 24.4%
+Abuse                | Abuse030_x264_580.png          | pumping gas               | 17.3%
+Abuse                | Abuse030_x264_590.png          | pumping gas               | 24.6%
+Abuse                | Abuse030_x264_60.png           | jaywalking                | 22.1%
+Abuse                | Abuse030_x264_600.png          | delivering mail           | 37.1%
+Abuse                | Abuse030_x264_610.png          | jaywalking                | 13.4%
+Abuse                | Abuse030_x264_620.png          | jaywalking                | 8.0%
+Abuse                | Abuse030_x264_630.png          | jaywalking                | 10.9%
+Abuse                | Abuse030_x264_640.png          | jaywalking                | 14.9%
+Abuse                | Abuse030_x264_650.png          | jaywalking                | 15.3%
+Abuse                | Abuse030_x264_660.png          | delivering mail           | 26.0%
+Abuse                | Abuse030_x264_670.png          | delivering mail           | 43.4%
+Abuse                | Abuse030_x264_680.png          | delivering mail           | 35.3%
+Abuse                | Abuse030_x264_690.png          | delivering mail           | 39.0%
+Abuse                | Abuse030_x264_70.png           | delivering mail           | 12.6%
+Abuse                | Abuse030_x264_700.png          | delivering mail           | 5.7%
+Abuse                | Abuse030_x264_710.png          | deadlifting               | 3.8%
+Abuse                | Abuse030_x264_720.png          | setting table             | 5.6%
+Abuse                | Abuse030_x264_730.png          | setting table             | 6.0%
+Abuse                | Abuse030_x264_740.png          | delivering mail           | 6.4%
+Abuse                | Abuse030_x264_750.png          | changing oil              | 6.3%
+Abuse                | Abuse030_x264_760.png          | delivering mail           | 36.8%
+Abuse                | Abuse030_x264_770.png          | delivering mail           | 22.7%
+Abuse                | Abuse030_x264_780.png          | delivering mail           | 24.3%
+Abuse                | Abuse030_x264_790.png          | delivering mail           | 17.6%
+Abuse                | Abuse030_x264_80.png           | changing oil              | 10.9%
+Abuse                | Abuse030_x264_800.png          | delivering mail           | 7.8%
+Abuse                | Abuse030_x264_810.png          | deadlifting               | 5.0%
+Abuse                | Abuse030_x264_820.png          | front raises              | 5.3%
+Abuse                | Abuse030_x264_830.png          | stretching arm            | 3.9%
+Abuse                | Abuse030_x264_840.png          | delivering mail           | 9.9%
+Abuse                | Abuse030_x264_850.png          | delivering mail           | 7.1%
+Abuse                | Abuse030_x264_860.png          | delivering mail           | 26.2%
+Abuse                | Abuse030_x264_870.png          | delivering mail           | 27.5%
+Abuse                | Abuse030_x264_880.png          | delivering mail           | 34.9%
+Abuse                | Abuse030_x264_890.png          | pumping gas               | 20.5%
+Abuse                | Abuse030_x264_90.png           | pumping gas               | 17.7%
+Abuse                | Abuse030_x264_900.png          | delivering mail           | 12.4%
+Abuse                | Abuse030_x264_910.png          | lunge                     | 4.6%
+Abuse                | Abuse030_x264_920.png          | gymnastics tumbling       | 4.6%
+Abuse                | Abuse030_x264_930.png          | lunge                     | 4.7%
+Abuse                | Abuse030_x264_940.png          | delivering mail           | 10.7%
+Abuse                | Abuse030_x264_950.png          | delivering mail           | 10.6%
+Abuse                | Abuse030_x264_960.png          | delivering mail           | 18.0%
+Abuse                | Abuse030_x264_970.png          | delivering mail           | 27.2%
+Abuse                | Abuse030_x264_980.png          | delivering mail           | 25.6%
+Abuse                | Abuse030_x264_990.png          | delivering mail           | 30.3%

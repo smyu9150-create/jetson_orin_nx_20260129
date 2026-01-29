@@ -1,0 +1,307 @@
+=== MoViNet Benchmark Report ===
+Date: 20260121_105237
+Model: MoViNet-A0
+Resolution: 172x172
+Parameters: 3.11 M
+Total Images: 297
+Average FPS: 27.79
+==========================================================================================
+Folder               | File                           | Prediction                | Score
+------------------------------------------------------------------------------------------
+Abuse                | Abuse028_x264_300.png          | mountain climber (exercise) | 76.8%
+Abuse                | Abuse028_x264_1010.png         | playing chess             | 42.2%
+Abuse                | Abuse030_x264_1130.png         | playing chess             | 25.1%
+Abuse                | Abuse030_x264_50.png           | slapping                  | 27.1%
+Abuse                | Abuse030_x264_1370.png         | playing chess             | 34.5%
+Abuse                | Abuse030_x264_730.png          | playing chess             | 80.1%
+Abuse                | Abuse028_x264_1070.png         | mountain climber (exercise) | 64.8%
+Abuse                | Abuse030_x264_1230.png         | slapping                  | 43.4%
+Abuse                | Abuse030_x264_980.png          | playing chess             | 78.4%
+Abuse                | Abuse028_x264_250.png          | mountain climber (exercise) | 33.0%
+Abuse                | Abuse028_x264_270.png          | mountain climber (exercise) | 56.4%
+Abuse                | Abuse028_x264_1370.png         | mountain climber (exercise) | 82.1%
+Abuse                | Abuse030_x264_280.png          | playing chess             | 67.6%
+Abuse                | Abuse028_x264_750.png          | mountain climber (exercise) | 83.5%
+Abuse                | Abuse030_x264_1040.png         | playing chess             | 63.1%
+Abuse                | Abuse030_x264_1280.png         | playing chess             | 37.2%
+Abuse                | Abuse028_x264_1020.png         | playing chess             | 45.5%
+Abuse                | Abuse028_x264_860.png          | mountain climber (exercise) | 80.8%
+Abuse                | Abuse030_x264_1510.png         | playing chess             | 40.3%
+Abuse                | Abuse030_x264_1260.png         | slapping                  | 34.1%
+Abuse                | Abuse030_x264_750.png          | playing chess             | 84.6%
+Abuse                | Abuse030_x264_390.png          | playing chess             | 66.3%
+Abuse                | Abuse028_x264_200.png          | mountain climber (exercise) | 50.7%
+Abuse                | Abuse030_x264_770.png          | playing chess             | 82.9%
+Abuse                | Abuse030_x264_10.png           | high kick                 | 25.4%
+Abuse                | Abuse030_x264_1100.png         | playing chess             | 44.7%
+Abuse                | Abuse028_x264_390.png          | mountain climber (exercise) | 72.1%
+Abuse                | Abuse028_x264_290.png          | mountain climber (exercise) | 66.4%
+Abuse                | Abuse030_x264_1080.png         | playing chess             | 41.7%
+Abuse                | Abuse030_x264_1480.png         | playing chess             | 46.9%
+Abuse                | Abuse028_x264_400.png          | mountain climber (exercise) | 78.0%
+Abuse                | Abuse028_x264_100.png          | mountain climber (exercise) | 49.4%
+Abuse                | Abuse030_x264_140.png          | playing chess             | 30.5%
+Abuse                | Abuse030_x264_1540.png         | playing chess             | 56.3%
+Abuse                | Abuse030_x264_220.png          | slapping                  | 40.4%
+Abuse                | Abuse028_x264_330.png          | mountain climber (exercise) | 59.9%
+Abuse                | Abuse030_x264_700.png          | playing chess             | 81.0%
+Abuse                | Abuse028_x264_80.png           | mountain climber (exercise) | 42.1%
+Abuse                | Abuse030_x264_790.png          | playing chess             | 78.0%
+Abuse                | Abuse028_x264_580.png          | mountain climber (exercise) | 74.9%
+Abuse                | Abuse028_x264_650.png          | mountain climber (exercise) | 82.9%
+Abuse                | Abuse028_x264_1220.png         | mountain climber (exercise) | 76.2%
+Abuse                | Abuse028_x264_110.png          | mountain climber (exercise) | 58.2%
+Abuse                | Abuse028_x264_870.png          | mountain climber (exercise) | 82.6%
+Abuse                | Abuse030_x264_1120.png         | playing chess             | 29.3%
+Abuse                | Abuse028_x264_120.png          | mountain climber (exercise) | 81.8%
+Abuse                | Abuse028_x264_1260.png         | mountain climber (exercise) | 77.3%
+Abuse                | Abuse030_x264_310.png          | playing chess             | 64.1%
+Abuse                | Abuse030_x264_150.png          | slapping                  | 30.0%
+Abuse                | Abuse028_x264_990.png          | mountain climber (exercise) | 80.6%
+Abuse                | Abuse028_x264_970.png          | mountain climber (exercise) | 78.1%
+Abuse                | Abuse030_x264_720.png          | playing chess             | 84.1%
+Abuse                | Abuse030_x264_1520.png         | playing chess             | 40.5%
+Abuse                | Abuse028_x264_260.png          | mountain climber (exercise) | 68.6%
+Abuse                | Abuse028_x264_500.png          | mountain climber (exercise) | 88.9%
+Abuse                | Abuse030_x264_500.png          | playing chess             | 62.5%
+Abuse                | Abuse030_x264_710.png          | playing chess             | 82.6%
+Abuse                | Abuse028_x264_340.png          | mountain climber (exercise) | 76.3%
+Abuse                | Abuse028_x264_1130.png         | mountain climber (exercise) | 75.0%
+Abuse                | Abuse028_x264_1180.png         | mountain climber (exercise) | 62.1%
+Abuse                | Abuse030_x264_1250.png         | slapping                  | 29.1%
+Abuse                | Abuse028_x264_980.png          | mountain climber (exercise) | 75.4%
+Abuse                | Abuse030_x264_70.png           | playing chess             | 22.9%
+Abuse                | Abuse030_x264_530.png          | playing chess             | 37.4%
+Abuse                | Abuse028_x264_570.png          | mountain climber (exercise) | 82.8%
+Abuse                | Abuse030_x264_590.png          | playing chess             | 82.6%
+Abuse                | Abuse030_x264_960.png          | playing chess             | 88.6%
+Abuse                | Abuse028_x264_160.png          | mountain climber (exercise) | 35.1%
+Abuse                | Abuse028_x264_1270.png         | mountain climber (exercise) | 75.8%
+Abuse                | Abuse030_x264_160.png          | playing chess             | 37.5%
+Abuse                | Abuse030_x264_910.png          | playing chess             | 73.2%
+Abuse                | Abuse028_x264_180.png          | mountain climber (exercise) | 42.5%
+Abuse                | Abuse030_x264_440.png          | playing chess             | 53.2%
+Abuse                | Abuse028_x264_1120.png         | mountain climber (exercise) | 66.8%
+Abuse                | Abuse030_x264_580.png          | playing chess             | 56.6%
+Abuse                | Abuse030_x264_480.png          | playing chess             | 52.9%
+Abuse                | Abuse028_x264_240.png          | mountain climber (exercise) | 46.2%
+Abuse                | Abuse030_x264_1470.png         | playing chess             | 34.3%
+Abuse                | Abuse030_x264_470.png          | playing chess             | 39.3%
+Abuse                | Abuse028_x264_770.png          | mountain climber (exercise) | 81.2%
+Abuse                | Abuse028_x264_1250.png         | mountain climber (exercise) | 74.8%
+Abuse                | Abuse030_x264_1220.png         | slapping                  | 42.5%
+Abuse                | Abuse030_x264_1070.png         | playing chess             | 41.5%
+Abuse                | Abuse030_x264_880.png          | playing chess             | 84.5%
+Abuse                | Abuse028_x264_1160.png         | mountain climber (exercise) | 69.7%
+Abuse                | Abuse028_x264_40.png           | mountain climber (exercise) | 51.4%
+Abuse                | Abuse028_x264_1390.png         | mountain climber (exercise) | 76.2%
+Abuse                | Abuse028_x264_640.png          | mountain climber (exercise) | 83.0%
+Abuse                | Abuse030_x264_1180.png         | slapping                  | 37.3%
+Abuse                | Abuse030_x264_1060.png         | playing chess             | 55.8%
+Abuse                | Abuse030_x264_1010.png         | playing chess             | 54.0%
+Abuse                | Abuse028_x264_520.png          | mountain climber (exercise) | 78.3%
+Abuse                | Abuse028_x264_1340.png         | mountain climber (exercise) | 80.9%
+Abuse                | Abuse028_x264_410.png          | mountain climber (exercise) | 61.6%
+Abuse                | Abuse030_x264_320.png          | playing chess             | 68.1%
+Abuse                | Abuse030_x264_1140.png         | massaging feet            | 28.2%
+Abuse                | Abuse028_x264_1140.png         | mountain climber (exercise) | 73.1%
+Abuse                | Abuse030_x264_1450.png         | playing chess             | 32.0%
+Abuse                | Abuse030_x264_1190.png         | slapping                  | 36.2%
+Abuse                | Abuse030_x264_1110.png         | playing chess             | 43.8%
+Abuse                | Abuse028_x264_210.png          | mountain climber (exercise) | 58.0%
+Abuse                | Abuse028_x264_610.png          | mountain climber (exercise) | 79.7%
+Abuse                | Abuse030_x264_430.png          | playing chess             | 60.4%
+Abuse                | Abuse028_x264_280.png          | mountain climber (exercise) | 58.4%
+Abuse                | Abuse028_x264_720.png          | mountain climber (exercise) | 84.9%
+Abuse                | Abuse030_x264_860.png          | playing chess             | 74.1%
+Abuse                | Abuse030_x264_510.png          | playing chess             | 53.3%
+Abuse                | Abuse030_x264_690.png          | playing chess             | 75.6%
+Abuse                | Abuse030_x264_370.png          | playing chess             | 71.3%
+Abuse                | Abuse030_x264_210.png          | slapping                  | 37.2%
+Abuse                | Abuse030_x264_360.png          | playing chess             | 61.9%
+Abuse                | Abuse028_x264_560.png          | mountain climber (exercise) | 82.8%
+Abuse                | Abuse028_x264_170.png          | mountain climber (exercise) | 44.1%
+Abuse                | Abuse028_x264_1150.png         | mountain climber (exercise) | 78.9%
+Abuse                | Abuse028_x264_360.png          | mountain climber (exercise) | 59.5%
+Abuse                | Abuse028_x264_1170.png         | mountain climber (exercise) | 71.6%
+Abuse                | Abuse028_x264_890.png          | mountain climber (exercise) | 82.5%
+Abuse                | Abuse030_x264_240.png          | massaging feet            | 42.1%
+Abuse                | Abuse030_x264_1150.png         | slapping                  | 35.9%
+Abuse                | Abuse028_x264_740.png          | mountain climber (exercise) | 85.8%
+Abuse                | Abuse028_x264_820.png          | mountain climber (exercise) | 90.1%
+Abuse                | Abuse030_x264_80.png           | playing chess             | 28.8%
+Abuse                | Abuse028_x264_230.png          | mountain climber (exercise) | 54.6%
+Abuse                | Abuse030_x264_680.png          | playing chess             | 67.8%
+Abuse                | Abuse028_x264_0.png            | mountain climber (exercise) | 41.5%
+Abuse                | Abuse028_x264_1080.png         | mountain climber (exercise) | 70.9%
+Abuse                | Abuse028_x264_1350.png         | mountain climber (exercise) | 82.2%
+Abuse                | Abuse028_x264_1230.png         | mountain climber (exercise) | 76.5%
+Abuse                | Abuse028_x264_30.png           | mountain climber (exercise) | 64.3%
+Abuse                | Abuse028_x264_1380.png         | mountain climber (exercise) | 80.4%
+Abuse                | Abuse028_x264_70.png           | mountain climber (exercise) | 31.1%
+Abuse                | Abuse030_x264_800.png          | playing chess             | 73.3%
+Abuse                | Abuse028_x264_1360.png         | mountain climber (exercise) | 80.8%
+Abuse                | Abuse030_x264_340.png          | playing chess             | 57.4%
+Abuse                | Abuse028_x264_1410.png         | mountain climber (exercise) | 68.0%
+Abuse                | Abuse030_x264_520.png          | playing chess             | 50.3%
+Abuse                | Abuse028_x264_1090.png         | mountain climber (exercise) | 63.1%
+Abuse                | Abuse028_x264_1210.png         | mountain climber (exercise) | 76.9%
+Abuse                | Abuse028_x264_450.png          | mountain climber (exercise) | 72.1%
+Abuse                | Abuse030_x264_1290.png         | playing chess             | 41.6%
+Abuse                | Abuse030_x264_260.png          | playing chess             | 59.1%
+Abuse                | Abuse028_x264_690.png          | mountain climber (exercise) | 85.3%
+Abuse                | Abuse028_x264_830.png          | mountain climber (exercise) | 90.1%
+Abuse                | Abuse030_x264_180.png          | playing chess             | 32.9%
+Abuse                | Abuse030_x264_1440.png         | high kick                 | 24.9%
+Abuse                | Abuse028_x264_350.png          | mountain climber (exercise) | 64.6%
+Abuse                | Abuse028_x264_600.png          | mountain climber (exercise) | 91.0%
+Abuse                | Abuse028_x264_710.png          | mountain climber (exercise) | 84.7%
+Abuse                | Abuse030_x264_20.png           | playing chess             | 29.5%
+Abuse                | Abuse028_x264_420.png          | mountain climber (exercise) | 73.0%
+Abuse                | Abuse028_x264_940.png          | mountain climber (exercise) | 91.6%
+Abuse                | Abuse028_x264_1190.png         | mountain climber (exercise) | 66.1%
+Abuse                | Abuse028_x264_920.png          | mountain climber (exercise) | 88.1%
+Abuse                | Abuse030_x264_1000.png         | playing chess             | 64.6%
+Abuse                | Abuse028_x264_480.png          | mountain climber (exercise) | 85.5%
+Abuse                | Abuse028_x264_1200.png         | mountain climber (exercise) | 65.9%
+Abuse                | Abuse028_x264_730.png          | mountain climber (exercise) | 82.6%
+Abuse                | Abuse028_x264_320.png          | mountain climber (exercise) | 73.8%
+Abuse                | Abuse030_x264_890.png          | playing chess             | 83.9%
+Abuse                | Abuse028_x264_1300.png         | mountain climber (exercise) | 73.3%
+Abuse                | Abuse028_x264_1040.png         | mountain climber (exercise) | 53.9%
+Abuse                | Abuse030_x264_760.png          | playing chess             | 89.1%
+Abuse                | Abuse030_x264_250.png          | massaging feet            | 45.5%
+Abuse                | Abuse030_x264_1270.png         | slapping                  | 33.7%
+Abuse                | Abuse030_x264_540.png          | playing chess             | 35.7%
+Abuse                | Abuse028_x264_540.png          | mountain climber (exercise) | 68.3%
+Abuse                | Abuse030_x264_110.png          | playing chess             | 23.0%
+Abuse                | Abuse030_x264_1380.png         | playing chess             | 33.3%
+Abuse                | Abuse028_x264_50.png           | high kick                 | 25.0%
+Abuse                | Abuse028_x264_810.png          | mountain climber (exercise) | 86.2%
+Abuse                | Abuse028_x264_700.png          | mountain climber (exercise) | 83.2%
+Abuse                | Abuse030_x264_40.png           | slapping                  | 27.9%
+Abuse                | Abuse030_x264_1050.png         | playing chess             | 42.9%
+Abuse                | Abuse028_x264_660.png          | mountain climber (exercise) | 88.4%
+Abuse                | Abuse028_x264_930.png          | mountain climber (exercise) | 89.6%
+Abuse                | Abuse030_x264_610.png          | playing chess             | 52.4%
+Abuse                | Abuse028_x264_1060.png         | mountain climber (exercise) | 69.0%
+Abuse                | Abuse030_x264_1160.png         | slapping                  | 38.6%
+Abuse                | Abuse030_x264_820.png          | playing chess             | 86.5%
+Abuse                | Abuse028_x264_380.png          | mountain climber (exercise) | 68.0%
+Abuse                | Abuse030_x264_1300.png         | playing chess             | 30.2%
+Abuse                | Abuse030_x264_1310.png         | playing chess             | 54.7%
+Abuse                | Abuse030_x264_1210.png         | slapping                  | 34.2%
+Abuse                | Abuse030_x264_230.png          | massaging feet            | 48.7%
+Abuse                | Abuse030_x264_400.png          | playing chess             | 54.4%
+Abuse                | Abuse030_x264_1420.png         | playing chess             | 29.1%
+Abuse                | Abuse030_x264_120.png          | playing chess             | 33.2%
+Abuse                | Abuse030_x264_630.png          | playing chess             | 67.8%
+Abuse                | Abuse030_x264_780.png          | playing chess             | 81.5%
+Abuse                | Abuse030_x264_1400.png         | playing chess             | 32.5%
+Abuse                | Abuse030_x264_550.png          | playing chess             | 45.4%
+Abuse                | Abuse030_x264_1340.png         | playing chess             | 52.7%
+Abuse                | Abuse030_x264_670.png          | playing chess             | 66.1%
+Abuse                | Abuse028_x264_370.png          | mountain climber (exercise) | 88.8%
+Abuse                | Abuse028_x264_470.png          | mountain climber (exercise) | 75.3%
+Abuse                | Abuse028_x264_1290.png         | mountain climber (exercise) | 74.4%
+Abuse                | Abuse030_x264_1360.png         | playing chess             | 36.2%
+Abuse                | Abuse028_x264_20.png           | mountain climber (exercise) | 71.3%
+Abuse                | Abuse030_x264_920.png          | playing chess             | 79.1%
+Abuse                | Abuse028_x264_900.png          | mountain climber (exercise) | 77.2%
+Abuse                | Abuse028_x264_800.png          | mountain climber (exercise) | 76.7%
+Abuse                | Abuse030_x264_200.png          | slapping                  | 35.5%
+Abuse                | Abuse028_x264_910.png          | mountain climber (exercise) | 86.1%
+Abuse                | Abuse028_x264_430.png          | mountain climber (exercise) | 71.1%
+Abuse                | Abuse028_x264_1320.png         | mountain climber (exercise) | 74.5%
+Abuse                | Abuse030_x264_810.png          | playing chess             | 83.5%
+Abuse                | Abuse030_x264_410.png          | playing chess             | 71.7%
+Abuse                | Abuse030_x264_30.png           | playing chess             | 24.0%
+Abuse                | Abuse030_x264_1410.png         | playing chess             | 32.0%
+Abuse                | Abuse030_x264_640.png          | playing chess             | 78.6%
+Abuse                | Abuse028_x264_310.png          | mountain climber (exercise) | 63.7%
+Abuse                | Abuse030_x264_850.png          | playing chess             | 71.8%
+Abuse                | Abuse030_x264_1020.png         | playing chess             | 61.8%
+Abuse                | Abuse028_x264_220.png          | mountain climber (exercise) | 52.7%
+Abuse                | Abuse030_x264_300.png          | playing chess             | 67.7%
+Abuse                | Abuse030_x264_1530.png         | playing chess             | 47.5%
+Abuse                | Abuse028_x264_780.png          | mountain climber (exercise) | 78.5%
+Abuse                | Abuse030_x264_620.png          | playing chess             | 65.2%
+Abuse                | Abuse030_x264_930.png          | playing chess             | 85.0%
+Abuse                | Abuse030_x264_170.png          | playing chess             | 38.0%
+Abuse                | Abuse028_x264_1000.png         | mountain climber (exercise) | 43.9%
+Abuse                | Abuse030_x264_100.png          | high kick                 | 24.2%
+Abuse                | Abuse028_x264_680.png          | mountain climber (exercise) | 83.9%
+Abuse                | Abuse030_x264_1170.png         | slapping                  | 32.5%
+Abuse                | Abuse030_x264_1240.png         | slapping                  | 31.3%
+Abuse                | Abuse028_x264_510.png          | mountain climber (exercise) | 86.5%
+Abuse                | Abuse028_x264_620.png          | mountain climber (exercise) | 69.3%
+Abuse                | Abuse028_x264_630.png          | mountain climber (exercise) | 73.7%
+Abuse                | Abuse028_x264_850.png          | mountain climber (exercise) | 83.3%
+Abuse                | Abuse028_x264_840.png          | mountain climber (exercise) | 86.5%
+Abuse                | Abuse030_x264_190.png          | slapping                  | 37.0%
+Abuse                | Abuse028_x264_950.png          | mountain climber (exercise) | 92.9%
+Abuse                | Abuse030_x264_560.png          | playing chess             | 32.5%
+Abuse                | Abuse030_x264_1320.png         | playing chess             | 52.8%
+Abuse                | Abuse030_x264_0.png            | playing chess             | 25.4%
+Abuse                | Abuse028_x264_60.png           | mountain climber (exercise) | 30.3%
+Abuse                | Abuse030_x264_570.png          | playing chess             | 32.0%
+Abuse                | Abuse030_x264_870.png          | playing chess             | 84.1%
+Abuse                | Abuse030_x264_90.png           | high kick                 | 23.9%
+Abuse                | Abuse030_x264_1390.png         | playing chess             | 29.3%
+Abuse                | Abuse028_x264_140.png          | mountain climber (exercise) | 41.2%
+Abuse                | Abuse028_x264_1030.png         | playing chess             | 52.8%
+Abuse                | Abuse030_x264_650.png          | playing chess             | 75.9%
+Abuse                | Abuse030_x264_380.png          | playing chess             | 65.5%
+Abuse                | Abuse030_x264_290.png          | playing chess             | 65.4%
+Abuse                | Abuse030_x264_600.png          | playing chess             | 68.3%
+Abuse                | Abuse028_x264_1050.png         | mountain climber (exercise) | 56.7%
+Abuse                | Abuse030_x264_1460.png         | playing chess             | 28.3%
+Abuse                | Abuse030_x264_1200.png         | slapping                  | 33.4%
+Abuse                | Abuse030_x264_1030.png         | playing chess             | 69.4%
+Abuse                | Abuse028_x264_190.png          | mountain climber (exercise) | 59.8%
+Abuse                | Abuse028_x264_790.png          | mountain climber (exercise) | 74.8%
+Abuse                | Abuse030_x264_1430.png         | high kick                 | 32.3%
+Abuse                | Abuse028_x264_880.png          | mountain climber (exercise) | 82.9%
+Abuse                | Abuse030_x264_330.png          | playing chess             | 54.8%
+Abuse                | Abuse030_x264_990.png          | playing chess             | 70.8%
+Abuse                | Abuse030_x264_1330.png         | playing chess             | 51.9%
+Abuse                | Abuse030_x264_660.png          | playing chess             | 59.7%
+Abuse                | Abuse030_x264_420.png          | playing chess             | 59.9%
+Abuse                | Abuse028_x264_150.png          | mountain climber (exercise) | 41.4%
+Abuse                | Abuse030_x264_1350.png         | playing chess             | 35.5%
+Abuse                | Abuse028_x264_90.png           | mountain climber (exercise) | 36.2%
+Abuse                | Abuse030_x264_1490.png         | playing chess             | 36.3%
+Abuse                | Abuse028_x264_1100.png         | mountain climber (exercise) | 70.1%
+Abuse                | Abuse030_x264_350.png          | playing chess             | 75.8%
+Abuse                | Abuse028_x264_670.png          | mountain climber (exercise) | 83.4%
+Abuse                | Abuse030_x264_950.png          | playing chess             | 90.3%
+Abuse                | Abuse028_x264_1280.png         | mountain climber (exercise) | 76.0%
+Abuse                | Abuse028_x264_10.png           | mountain climber (exercise) | 71.0%
+Abuse                | Abuse030_x264_460.png          | playing chess             | 49.4%
+Abuse                | Abuse030_x264_450.png          | playing chess             | 53.6%
+Abuse                | Abuse028_x264_1110.png         | mountain climber (exercise) | 71.9%
+Abuse                | Abuse028_x264_960.png          | mountain climber (exercise) | 82.2%
+Abuse                | Abuse028_x264_760.png          | mountain climber (exercise) | 84.3%
+Abuse                | Abuse030_x264_270.png          | playing chess             | 38.5%
+Abuse                | Abuse028_x264_530.png          | mountain climber (exercise) | 66.7%
+Abuse                | Abuse028_x264_460.png          | mountain climber (exercise) | 76.0%
+Abuse                | Abuse030_x264_740.png          | playing chess             | 80.1%
+Abuse                | Abuse028_x264_490.png          | mountain climber (exercise) | 83.6%
+Abuse                | Abuse030_x264_970.png          | playing chess             | 82.3%
+Abuse                | Abuse028_x264_590.png          | mountain climber (exercise) | 79.2%
+Abuse                | Abuse028_x264_1240.png         | mountain climber (exercise) | 78.6%
+Abuse                | Abuse028_x264_1310.png         | mountain climber (exercise) | 77.6%
+Abuse                | Abuse030_x264_1090.png         | playing chess             | 49.9%
+Abuse                | Abuse030_x264_900.png          | playing chess             | 77.3%
+Abuse                | Abuse028_x264_550.png          | mountain climber (exercise) | 76.2%
+Abuse                | Abuse030_x264_60.png           | playing chess             | 24.4%
+Abuse                | Abuse030_x264_130.png          | playing chess             | 27.3%
+Abuse                | Abuse030_x264_830.png          | playing chess             | 83.1%
+Abuse                | Abuse030_x264_490.png          | playing chess             | 59.7%
+Abuse                | Abuse028_x264_1400.png         | mountain climber (exercise) | 64.6%
+Abuse                | Abuse028_x264_440.png          | mountain climber (exercise) | 75.6%
+Abuse                | Abuse030_x264_840.png          | playing chess             | 85.4%
+Abuse                | Abuse030_x264_1500.png         | playing chess             | 49.0%
+Abuse                | Abuse030_x264_940.png          | playing chess             | 86.7%
+Abuse                | Abuse028_x264_130.png          | mountain climber (exercise) | 55.8%
+Abuse                | Abuse028_x264_1330.png         | mountain climber (exercise) | 76.4%

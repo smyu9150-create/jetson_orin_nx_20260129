@@ -1,0 +1,134 @@
+=== MoViNet Benchmark Report ===
+Model: MoViNet-A0
+FPS: 18.36
+--------------------------------------------------
+Frame 1     | driving car               | 20.3%
+Frame 2     | photocopying              | 28.6%
+Frame 3     | situp                     | 23.1%
+Frame 4     | falling off chair         | 37.7%
+Frame 5     | falling off chair         | 51.0%
+Frame 6     | falling off chair         | 63.7%
+Frame 7     | falling off chair         | 53.2%
+Frame 8     | falling off chair         | 43.4%
+Frame 9     | falling off chair         | 29.4%
+Frame 10    | falling off chair         | 23.4%
+Frame 11    | falling off chair         | 13.0%
+Frame 12    | falling off chair         | 9.6%
+Frame 13    | mountain climber (exercise) | 10.5%
+Frame 14    | mountain climber (exercise) | 11.1%
+Frame 15    | mountain climber (exercise) | 13.3%
+Frame 16    | mountain climber (exercise) | 13.6%
+Frame 17    | mountain climber (exercise) | 15.7%
+Frame 18    | mountain climber (exercise) | 15.9%
+Frame 19    | mountain climber (exercise) | 16.0%
+Frame 20    | mountain climber (exercise) | 14.5%
+Frame 21    | mountain climber (exercise) | 13.4%
+Frame 22    | mountain climber (exercise) | 11.7%
+Frame 23    | mountain climber (exercise) | 11.0%
+Frame 24    | mountain climber (exercise) | 9.8%
+Frame 25    | mountain climber (exercise) | 9.4%
+Frame 26    | mountain climber (exercise) | 8.3%
+Frame 27    | mountain climber (exercise) | 7.9%
+Frame 28    | mountain climber (exercise) | 7.1%
+Frame 29    | mountain climber (exercise) | 6.9%
+Frame 30    | mountain climber (exercise) | 6.5%
+Frame 31    | mountain climber (exercise) | 6.2%
+Frame 32    | playing controller        | 7.1%
+Frame 33    | playing controller        | 7.3%
+Frame 34    | playing controller        | 7.9%
+Frame 35    | playing controller        | 8.3%
+Frame 36    | playing controller        | 9.0%
+Frame 37    | playing controller        | 9.2%
+Frame 38    | playing controller        | 10.1%
+Frame 39    | playing controller        | 10.6%
+Frame 40    | playing controller        | 11.2%
+Frame 41    | playing controller        | 11.0%
+Frame 42    | playing controller        | 11.5%
+Frame 43    | playing controller        | 11.0%
+Frame 44    | playing controller        | 11.0%
+Frame 45    | playing controller        | 9.9%
+Frame 46    | playing controller        | 9.8%
+Frame 47    | mountain climber (exercise) | 11.8%
+Frame 48    | mountain climber (exercise) | 12.7%
+Frame 49    | mountain climber (exercise) | 14.9%
+Frame 50    | mountain climber (exercise) | 15.2%
+Frame 51    | mountain climber (exercise) | 17.4%
+Frame 52    | mountain climber (exercise) | 18.0%
+Frame 53    | mountain climber (exercise) | 19.1%
+Frame 54    | mountain climber (exercise) | 19.3%
+Frame 55    | mountain climber (exercise) | 21.9%
+Frame 56    | mountain climber (exercise) | 22.6%
+Frame 57    | mountain climber (exercise) | 26.0%
+Frame 58    | mountain climber (exercise) | 27.3%
+Frame 59    | mountain climber (exercise) | 31.2%
+Frame 60    | mountain climber (exercise) | 32.5%
+Frame 61    | mountain climber (exercise) | 36.4%
+Frame 62    | mountain climber (exercise) | 37.3%
+Frame 63    | mountain climber (exercise) | 40.0%
+Frame 64    | mountain climber (exercise) | 38.9%
+Frame 65    | mountain climber (exercise) | 38.0%
+Frame 66    | mountain climber (exercise) | 36.5%
+Frame 67    | mountain climber (exercise) | 34.8%
+Frame 68    | mountain climber (exercise) | 32.7%
+Frame 69    | mountain climber (exercise) | 32.2%
+Frame 70    | mountain climber (exercise) | 31.4%
+Frame 71    | mountain climber (exercise) | 32.4%
+Frame 72    | mountain climber (exercise) | 31.9%
+Frame 73    | mountain climber (exercise) | 32.2%
+Frame 74    | mountain climber (exercise) | 31.6%
+Frame 75    | mountain climber (exercise) | 32.6%
+Frame 76    | mountain climber (exercise) | 32.5%
+Frame 77    | mountain climber (exercise) | 32.9%
+Frame 78    | mountain climber (exercise) | 32.1%
+Frame 79    | mountain climber (exercise) | 33.0%
+Frame 80    | mountain climber (exercise) | 32.9%
+Frame 81    | mountain climber (exercise) | 32.7%
+Frame 82    | mountain climber (exercise) | 31.9%
+Frame 83    | mountain climber (exercise) | 32.0%
+Frame 84    | mountain climber (exercise) | 31.4%
+Frame 85    | mountain climber (exercise) | 33.2%
+Frame 86    | mountain climber (exercise) | 32.8%
+Frame 87    | mountain climber (exercise) | 34.1%
+Frame 88    | mountain climber (exercise) | 33.3%
+Frame 89    | mountain climber (exercise) | 32.5%
+Frame 90    | mountain climber (exercise) | 31.1%
+Frame 91    | mountain climber (exercise) | 29.5%
+Frame 92    | mountain climber (exercise) | 28.0%
+Frame 93    | mountain climber (exercise) | 29.1%
+Frame 94    | mountain climber (exercise) | 28.5%
+Frame 95    | mountain climber (exercise) | 30.6%
+Frame 96    | mountain climber (exercise) | 30.8%
+Frame 97    | mountain climber (exercise) | 32.1%
+Frame 98    | mountain climber (exercise) | 31.5%
+Frame 99    | mountain climber (exercise) | 33.0%
+Frame 100   | mountain climber (exercise) | 33.1%
+Frame 101   | mountain climber (exercise) | 36.0%
+Frame 102   | mountain climber (exercise) | 36.2%
+Frame 103   | mountain climber (exercise) | 39.3%
+Frame 104   | mountain climber (exercise) | 39.9%
+Frame 105   | mountain climber (exercise) | 41.5%
+Frame 106   | mountain climber (exercise) | 41.4%
+Frame 107   | mountain climber (exercise) | 41.8%
+Frame 108   | mountain climber (exercise) | 41.2%
+Frame 109   | mountain climber (exercise) | 41.4%
+Frame 110   | mountain climber (exercise) | 40.9%
+Frame 111   | mountain climber (exercise) | 40.4%
+Frame 112   | mountain climber (exercise) | 39.5%
+Frame 113   | mountain climber (exercise) | 38.5%
+Frame 114   | mountain climber (exercise) | 37.8%
+Frame 115   | mountain climber (exercise) | 37.0%
+Frame 116   | mountain climber (exercise) | 36.1%
+Frame 117   | mountain climber (exercise) | 35.5%
+Frame 118   | mountain climber (exercise) | 35.1%
+Frame 119   | mountain climber (exercise) | 34.6%
+Frame 120   | mountain climber (exercise) | 34.0%
+Frame 121   | mountain climber (exercise) | 33.5%
+Frame 122   | mountain climber (exercise) | 33.0%
+Frame 123   | mountain climber (exercise) | 32.1%
+Frame 124   | mountain climber (exercise) | 31.6%
+Frame 125   | mountain climber (exercise) | 31.5%
+Frame 126   | mountain climber (exercise) | 31.2%
+Frame 127   | mountain climber (exercise) | 30.8%
+Frame 128   | mountain climber (exercise) | 30.4%
+Frame 129   | mountain climber (exercise) | 30.1%
+Frame 130   | mountain climber (exercise) | 29.7%

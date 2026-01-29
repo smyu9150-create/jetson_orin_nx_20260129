@@ -1,0 +1,307 @@
+=== MoViNet Benchmark Report ===
+Date: 20260120_180125
+Model: MoViNet-A5
+Resolution: 320x320
+Parameters: 18.65 M
+Total Images: 297
+Average FPS: 7.27
+==========================================================================================
+Folder               | File                           | Prediction                | Score
+------------------------------------------------------------------------------------------
+Abuse                | Abuse028_x264_300.png          | news anchoring            | 9.7%
+Abuse                | Abuse028_x264_1010.png         | news anchoring            | 23.5%
+Abuse                | Abuse030_x264_1130.png         | directing traffic         | 31.7%
+Abuse                | Abuse030_x264_50.png           | directing traffic         | 38.0%
+Abuse                | Abuse030_x264_1370.png         | directing traffic         | 39.3%
+Abuse                | Abuse030_x264_730.png          | jaywalking                | 35.4%
+Abuse                | Abuse028_x264_1070.png         | news anchoring            | 14.2%
+Abuse                | Abuse030_x264_1230.png         | directing traffic         | 48.5%
+Abuse                | Abuse030_x264_980.png          | jaywalking                | 32.8%
+Abuse                | Abuse028_x264_250.png          | planting trees            | 8.3%
+Abuse                | Abuse028_x264_270.png          | skateboarding             | 10.1%
+Abuse                | Abuse028_x264_1370.png         | news anchoring            | 14.3%
+Abuse                | Abuse030_x264_280.png          | directing traffic         | 18.7%
+Abuse                | Abuse028_x264_750.png          | texting                   | 11.7%
+Abuse                | Abuse030_x264_1040.png         | jaywalking                | 34.8%
+Abuse                | Abuse030_x264_1280.png         | directing traffic         | 57.5%
+Abuse                | Abuse028_x264_1020.png         | parkour                   | 13.6%
+Abuse                | Abuse028_x264_860.png          | skateboarding             | 12.5%
+Abuse                | Abuse030_x264_1510.png         | directing traffic         | 40.5%
+Abuse                | Abuse030_x264_1260.png         | directing traffic         | 45.6%
+Abuse                | Abuse030_x264_750.png          | jaywalking                | 37.1%
+Abuse                | Abuse030_x264_390.png          | jaywalking                | 27.8%
+Abuse                | Abuse028_x264_200.png          | motorcycling              | 32.9%
+Abuse                | Abuse030_x264_770.png          | jaywalking                | 25.9%
+Abuse                | Abuse030_x264_10.png           | directing traffic         | 48.8%
+Abuse                | Abuse030_x264_1100.png         | directing traffic         | 22.2%
+Abuse                | Abuse028_x264_390.png          | texting                   | 11.6%
+Abuse                | Abuse028_x264_290.png          | planting trees            | 8.1%
+Abuse                | Abuse030_x264_1080.png         | jaywalking                | 38.4%
+Abuse                | Abuse030_x264_1480.png         | directing traffic         | 38.8%
+Abuse                | Abuse028_x264_400.png          | planting trees            | 8.9%
+Abuse                | Abuse028_x264_100.png          | texting                   | 12.0%
+Abuse                | Abuse030_x264_140.png          | directing traffic         | 35.2%
+Abuse                | Abuse030_x264_1540.png         | directing traffic         | 47.2%
+Abuse                | Abuse030_x264_220.png          | directing traffic         | 13.6%
+Abuse                | Abuse028_x264_330.png          | disc golfing              | 18.3%
+Abuse                | Abuse030_x264_700.png          | jaywalking                | 30.3%
+Abuse                | Abuse028_x264_80.png           | skateboarding             | 29.2%
+Abuse                | Abuse030_x264_790.png          | jaywalking                | 38.9%
+Abuse                | Abuse028_x264_580.png          | news anchoring            | 16.7%
+Abuse                | Abuse028_x264_650.png          | skateboarding             | 8.0%
+Abuse                | Abuse028_x264_1220.png         | news anchoring            | 12.4%
+Abuse                | Abuse028_x264_110.png          | playing chess             | 28.9%
+Abuse                | Abuse028_x264_870.png          | texting                   | 13.2%
+Abuse                | Abuse030_x264_1120.png         | jaywalking                | 15.1%
+Abuse                | Abuse028_x264_120.png          | playing chess             | 15.8%
+Abuse                | Abuse028_x264_1260.png         | news anchoring            | 12.8%
+Abuse                | Abuse030_x264_310.png          | jaywalking                | 28.2%
+Abuse                | Abuse030_x264_150.png          | jaywalking                | 38.0%
+Abuse                | Abuse028_x264_990.png          | playing chess             | 18.3%
+Abuse                | Abuse028_x264_970.png          | playing chess             | 38.3%
+Abuse                | Abuse030_x264_720.png          | jaywalking                | 31.2%
+Abuse                | Abuse030_x264_1520.png         | directing traffic         | 47.5%
+Abuse                | Abuse028_x264_260.png          | skateboarding             | 7.7%
+Abuse                | Abuse028_x264_500.png          | news anchoring            | 16.2%
+Abuse                | Abuse030_x264_500.png          | jaywalking                | 28.3%
+Abuse                | Abuse030_x264_710.png          | jaywalking                | 33.0%
+Abuse                | Abuse028_x264_340.png          | disc golfing              | 27.0%
+Abuse                | Abuse028_x264_1130.png         | news anchoring            | 13.8%
+Abuse                | Abuse028_x264_1180.png         | news anchoring            | 11.1%
+Abuse                | Abuse030_x264_1250.png         | directing traffic         | 38.3%
+Abuse                | Abuse028_x264_980.png          | skateboarding             | 19.5%
+Abuse                | Abuse030_x264_70.png           | directing traffic         | 41.0%
+Abuse                | Abuse030_x264_530.png          | directing traffic         | 25.5%
+Abuse                | Abuse028_x264_570.png          | news anchoring            | 22.6%
+Abuse                | Abuse030_x264_590.png          | jaywalking                | 19.6%
+Abuse                | Abuse030_x264_960.png          | jaywalking                | 26.1%
+Abuse                | Abuse028_x264_160.png          | texting                   | 8.3%
+Abuse                | Abuse028_x264_1270.png         | news anchoring            | 11.9%
+Abuse                | Abuse030_x264_160.png          | jaywalking                | 34.1%
+Abuse                | Abuse030_x264_910.png          | jaywalking                | 30.1%
+Abuse                | Abuse028_x264_180.png          | planting trees            | 11.1%
+Abuse                | Abuse030_x264_440.png          | jaywalking                | 31.9%
+Abuse                | Abuse028_x264_1120.png         | news anchoring            | 14.1%
+Abuse                | Abuse030_x264_580.png          | jaywalking                | 18.8%
+Abuse                | Abuse030_x264_480.png          | directing traffic         | 36.1%
+Abuse                | Abuse028_x264_240.png          | news anchoring            | 11.3%
+Abuse                | Abuse030_x264_1470.png         | directing traffic         | 32.8%
+Abuse                | Abuse030_x264_470.png          | jaywalking                | 27.9%
+Abuse                | Abuse028_x264_770.png          | parkour                   | 13.4%
+Abuse                | Abuse028_x264_1250.png         | news anchoring            | 12.8%
+Abuse                | Abuse030_x264_1220.png         | directing traffic         | 43.7%
+Abuse                | Abuse030_x264_1070.png         | jaywalking                | 36.9%
+Abuse                | Abuse030_x264_880.png          | jaywalking                | 38.0%
+Abuse                | Abuse028_x264_1160.png         | news anchoring            | 12.9%
+Abuse                | Abuse028_x264_40.png           | texting                   | 18.6%
+Abuse                | Abuse028_x264_1390.png         | news anchoring            | 12.3%
+Abuse                | Abuse028_x264_640.png          | skateboarding             | 8.9%
+Abuse                | Abuse030_x264_1180.png         | directing traffic         | 44.1%
+Abuse                | Abuse030_x264_1060.png         | jaywalking                | 44.5%
+Abuse                | Abuse030_x264_1010.png         | jaywalking                | 33.1%
+Abuse                | Abuse028_x264_520.png          | news anchoring            | 19.9%
+Abuse                | Abuse028_x264_1340.png         | news anchoring            | 12.2%
+Abuse                | Abuse028_x264_410.png          | planting trees            | 8.7%
+Abuse                | Abuse030_x264_320.png          | jaywalking                | 21.5%
+Abuse                | Abuse030_x264_1140.png         | jaywalking                | 21.2%
+Abuse                | Abuse028_x264_1140.png         | news anchoring            | 13.3%
+Abuse                | Abuse030_x264_1450.png         | directing traffic         | 44.4%
+Abuse                | Abuse030_x264_1190.png         | directing traffic         | 30.5%
+Abuse                | Abuse030_x264_1110.png         | directing traffic         | 23.8%
+Abuse                | Abuse028_x264_210.png          | motorcycling              | 36.5%
+Abuse                | Abuse028_x264_610.png          | playing chess             | 71.8%
+Abuse                | Abuse030_x264_430.png          | jaywalking                | 34.2%
+Abuse                | Abuse028_x264_280.png          | planting trees            | 10.0%
+Abuse                | Abuse028_x264_720.png          | skateboarding             | 12.0%
+Abuse                | Abuse030_x264_860.png          | jaywalking                | 37.7%
+Abuse                | Abuse030_x264_510.png          | directing traffic         | 31.4%
+Abuse                | Abuse030_x264_690.png          | jaywalking                | 33.5%
+Abuse                | Abuse030_x264_370.png          | cleaning windows          | 30.2%
+Abuse                | Abuse030_x264_210.png          | jaywalking                | 15.8%
+Abuse                | Abuse030_x264_360.png          | cleaning windows          | 22.1%
+Abuse                | Abuse028_x264_560.png          | news anchoring            | 19.6%
+Abuse                | Abuse028_x264_170.png          | news anchoring            | 15.0%
+Abuse                | Abuse028_x264_1150.png         | news anchoring            | 13.9%
+Abuse                | Abuse028_x264_360.png          | texting                   | 12.3%
+Abuse                | Abuse028_x264_1170.png         | news anchoring            | 12.5%
+Abuse                | Abuse028_x264_890.png          | texting                   | 14.3%
+Abuse                | Abuse030_x264_240.png          | jaywalking                | 15.7%
+Abuse                | Abuse030_x264_1150.png         | directing traffic         | 30.7%
+Abuse                | Abuse028_x264_740.png          | skateboarding             | 10.9%
+Abuse                | Abuse028_x264_820.png          | news anchoring            | 13.2%
+Abuse                | Abuse030_x264_80.png           | directing traffic         | 42.0%
+Abuse                | Abuse028_x264_230.png          | skateboarding             | 6.7%
+Abuse                | Abuse030_x264_680.png          | jaywalking                | 23.5%
+Abuse                | Abuse028_x264_0.png            | texting                   | 17.6%
+Abuse                | Abuse028_x264_1080.png         | news anchoring            | 12.9%
+Abuse                | Abuse028_x264_1350.png         | news anchoring            | 13.2%
+Abuse                | Abuse028_x264_1230.png         | news anchoring            | 10.4%
+Abuse                | Abuse028_x264_30.png           | texting                   | 12.8%
+Abuse                | Abuse028_x264_1380.png         | news anchoring            | 13.9%
+Abuse                | Abuse028_x264_70.png           | texting                   | 13.6%
+Abuse                | Abuse030_x264_800.png          | jaywalking                | 36.1%
+Abuse                | Abuse028_x264_1360.png         | news anchoring            | 11.0%
+Abuse                | Abuse030_x264_340.png          | jaywalking                | 28.5%
+Abuse                | Abuse028_x264_1410.png         | news anchoring            | 11.7%
+Abuse                | Abuse030_x264_520.png          | directing traffic         | 31.3%
+Abuse                | Abuse028_x264_1090.png         | texting                   | 11.6%
+Abuse                | Abuse028_x264_1210.png         | news anchoring            | 11.6%
+Abuse                | Abuse028_x264_450.png          | news anchoring            | 13.8%
+Abuse                | Abuse030_x264_1290.png         | directing traffic         | 58.4%
+Abuse                | Abuse030_x264_260.png          | jaywalking                | 16.5%
+Abuse                | Abuse028_x264_690.png          | skateboarding             | 12.2%
+Abuse                | Abuse028_x264_830.png          | skateboarding             | 13.5%
+Abuse                | Abuse030_x264_180.png          | jaywalking                | 32.4%
+Abuse                | Abuse030_x264_1440.png         | directing traffic         | 49.9%
+Abuse                | Abuse028_x264_350.png          | texting                   | 23.6%
+Abuse                | Abuse028_x264_600.png          | news anchoring            | 20.1%
+Abuse                | Abuse028_x264_710.png          | skateboarding             | 12.1%
+Abuse                | Abuse030_x264_20.png           | directing traffic         | 41.7%
+Abuse                | Abuse028_x264_420.png          | news anchoring            | 11.7%
+Abuse                | Abuse028_x264_940.png          | cleaning windows          | 12.2%
+Abuse                | Abuse028_x264_1190.png         | news anchoring            | 12.7%
+Abuse                | Abuse028_x264_920.png          | skateboarding             | 16.6%
+Abuse                | Abuse030_x264_1000.png         | jaywalking                | 29.2%
+Abuse                | Abuse028_x264_480.png          | news anchoring            | 12.9%
+Abuse                | Abuse028_x264_1200.png         | news anchoring            | 13.1%
+Abuse                | Abuse028_x264_730.png          | skateboarding             | 10.8%
+Abuse                | Abuse028_x264_320.png          | planting trees            | 7.2%
+Abuse                | Abuse030_x264_890.png          | jaywalking                | 38.4%
+Abuse                | Abuse028_x264_1300.png         | news anchoring            | 12.1%
+Abuse                | Abuse028_x264_1040.png         | planting trees            | 11.3%
+Abuse                | Abuse030_x264_760.png          | jaywalking                | 36.1%
+Abuse                | Abuse030_x264_250.png          | jogging                   | 17.9%
+Abuse                | Abuse030_x264_1270.png         | directing traffic         | 54.1%
+Abuse                | Abuse030_x264_540.png          | jaywalking                | 21.5%
+Abuse                | Abuse028_x264_540.png          | news anchoring            | 17.3%
+Abuse                | Abuse030_x264_110.png          | directing traffic         | 39.7%
+Abuse                | Abuse030_x264_1380.png         | directing traffic         | 50.7%
+Abuse                | Abuse028_x264_50.png           | skateboarding             | 12.1%
+Abuse                | Abuse028_x264_810.png          | skateboarding             | 14.3%
+Abuse                | Abuse028_x264_700.png          | parkour                   | 12.7%
+Abuse                | Abuse030_x264_40.png           | directing traffic         | 42.8%
+Abuse                | Abuse030_x264_1050.png         | jaywalking                | 44.0%
+Abuse                | Abuse028_x264_660.png          | texting                   | 9.3%
+Abuse                | Abuse028_x264_930.png          | texting                   | 11.2%
+Abuse                | Abuse030_x264_610.png          | jaywalking                | 26.0%
+Abuse                | Abuse028_x264_1060.png         | news anchoring            | 11.4%
+Abuse                | Abuse030_x264_1160.png         | directing traffic         | 41.8%
+Abuse                | Abuse030_x264_820.png          | jaywalking                | 31.4%
+Abuse                | Abuse028_x264_380.png          | texting                   | 12.5%
+Abuse                | Abuse030_x264_1300.png         | directing traffic         | 40.4%
+Abuse                | Abuse030_x264_1310.png         | directing traffic         | 42.5%
+Abuse                | Abuse030_x264_1210.png         | directing traffic         | 38.1%
+Abuse                | Abuse030_x264_230.png          | jaywalking                | 18.1%
+Abuse                | Abuse030_x264_400.png          | jaywalking                | 28.2%
+Abuse                | Abuse030_x264_1420.png         | directing traffic         | 41.1%
+Abuse                | Abuse030_x264_120.png          | directing traffic         | 39.8%
+Abuse                | Abuse030_x264_630.png          | jaywalking                | 25.8%
+Abuse                | Abuse030_x264_780.png          | jaywalking                | 37.2%
+Abuse                | Abuse030_x264_1400.png         | directing traffic         | 36.8%
+Abuse                | Abuse030_x264_550.png          | directing traffic         | 17.9%
+Abuse                | Abuse030_x264_1340.png         | directing traffic         | 48.1%
+Abuse                | Abuse030_x264_670.png          | jaywalking                | 26.1%
+Abuse                | Abuse028_x264_370.png          | news anchoring            | 13.5%
+Abuse                | Abuse028_x264_470.png          | news anchoring            | 9.2%
+Abuse                | Abuse028_x264_1290.png         | news anchoring            | 12.8%
+Abuse                | Abuse030_x264_1360.png         | directing traffic         | 39.7%
+Abuse                | Abuse028_x264_20.png           | texting                   | 12.3%
+Abuse                | Abuse030_x264_920.png          | jaywalking                | 30.3%
+Abuse                | Abuse028_x264_900.png          | planting trees            | 13.2%
+Abuse                | Abuse028_x264_800.png          | skateboarding             | 12.4%
+Abuse                | Abuse030_x264_200.png          | jaywalking                | 19.9%
+Abuse                | Abuse028_x264_910.png          | skateboarding             | 12.3%
+Abuse                | Abuse028_x264_430.png          | news anchoring            | 11.0%
+Abuse                | Abuse028_x264_1320.png         | news anchoring            | 11.9%
+Abuse                | Abuse030_x264_810.png          | jaywalking                | 32.4%
+Abuse                | Abuse030_x264_410.png          | jaywalking                | 27.5%
+Abuse                | Abuse030_x264_30.png           | directing traffic         | 41.7%
+Abuse                | Abuse030_x264_1410.png         | directing traffic         | 40.2%
+Abuse                | Abuse030_x264_640.png          | jaywalking                | 28.5%
+Abuse                | Abuse028_x264_310.png          | planting trees            | 9.0%
+Abuse                | Abuse030_x264_850.png          | jaywalking                | 36.8%
+Abuse                | Abuse030_x264_1020.png         | jaywalking                | 35.7%
+Abuse                | Abuse028_x264_220.png          | motorcycling              | 7.9%
+Abuse                | Abuse030_x264_300.png          | directing traffic         | 32.6%
+Abuse                | Abuse030_x264_1530.png         | directing traffic         | 48.8%
+Abuse                | Abuse028_x264_780.png          | parkour                   | 13.9%
+Abuse                | Abuse030_x264_620.png          | jaywalking                | 24.6%
+Abuse                | Abuse030_x264_930.png          | jaywalking                | 31.2%
+Abuse                | Abuse030_x264_170.png          | jaywalking                | 29.8%
+Abuse                | Abuse028_x264_1000.png         | playing paintball         | 10.3%
+Abuse                | Abuse030_x264_100.png          | directing traffic         | 38.9%
+Abuse                | Abuse028_x264_680.png          | skateboarding             | 11.4%
+Abuse                | Abuse030_x264_1170.png         | directing traffic         | 33.9%
+Abuse                | Abuse030_x264_1240.png         | directing traffic         | 47.3%
+Abuse                | Abuse028_x264_510.png          | news anchoring            | 11.3%
+Abuse                | Abuse028_x264_620.png          | texting                   | 9.1%
+Abuse                | Abuse028_x264_630.png          | texting                   | 12.1%
+Abuse                | Abuse028_x264_850.png          | planting trees            | 9.7%
+Abuse                | Abuse028_x264_840.png          | skateboarding             | 19.6%
+Abuse                | Abuse030_x264_190.png          | jaywalking                | 23.8%
+Abuse                | Abuse028_x264_950.png          | texting                   | 12.5%
+Abuse                | Abuse030_x264_560.png          | directing traffic         | 21.3%
+Abuse                | Abuse030_x264_1320.png         | directing traffic         | 46.2%
+Abuse                | Abuse030_x264_0.png            | directing traffic         | 46.0%
+Abuse                | Abuse028_x264_60.png           | skateboarding             | 15.4%
+Abuse                | Abuse030_x264_570.png          | directing traffic         | 21.9%
+Abuse                | Abuse030_x264_870.png          | jaywalking                | 36.2%
+Abuse                | Abuse030_x264_90.png           | directing traffic         | 28.8%
+Abuse                | Abuse030_x264_1390.png         | directing traffic         | 45.1%
+Abuse                | Abuse028_x264_140.png          | planting trees            | 11.0%
+Abuse                | Abuse028_x264_1030.png         | disc golfing              | 12.7%
+Abuse                | Abuse030_x264_650.png          | jaywalking                | 24.9%
+Abuse                | Abuse030_x264_380.png          | jaywalking                | 24.0%
+Abuse                | Abuse030_x264_290.png          | directing traffic         | 21.9%
+Abuse                | Abuse030_x264_600.png          | jaywalking                | 23.6%
+Abuse                | Abuse028_x264_1050.png         | news anchoring            | 14.3%
+Abuse                | Abuse030_x264_1460.png         | directing traffic         | 40.0%
+Abuse                | Abuse030_x264_1200.png         | directing traffic         | 30.5%
+Abuse                | Abuse030_x264_1030.png         | jaywalking                | 38.8%
+Abuse                | Abuse028_x264_190.png          | directing traffic         | 11.5%
+Abuse                | Abuse028_x264_790.png          | parkour                   | 17.0%
+Abuse                | Abuse030_x264_1430.png         | directing traffic         | 39.9%
+Abuse                | Abuse028_x264_880.png          | directing traffic         | 11.9%
+Abuse                | Abuse030_x264_330.png          | directing traffic         | 26.2%
+Abuse                | Abuse030_x264_990.png          | jaywalking                | 34.0%
+Abuse                | Abuse030_x264_1330.png         | directing traffic         | 49.2%
+Abuse                | Abuse030_x264_660.png          | jaywalking                | 28.2%
+Abuse                | Abuse030_x264_420.png          | jaywalking                | 40.9%
+Abuse                | Abuse028_x264_150.png          | news anchoring            | 11.7%
+Abuse                | Abuse030_x264_1350.png         | directing traffic         | 38.7%
+Abuse                | Abuse028_x264_90.png           | skateboarding             | 20.8%
+Abuse                | Abuse030_x264_1490.png         | directing traffic         | 43.5%
+Abuse                | Abuse028_x264_1100.png         | texting                   | 12.2%
+Abuse                | Abuse030_x264_350.png          | jaywalking                | 27.5%
+Abuse                | Abuse028_x264_670.png          | parkour                   | 10.6%
+Abuse                | Abuse030_x264_950.png          | jaywalking                | 30.7%
+Abuse                | Abuse028_x264_1280.png         | news anchoring            | 12.3%
+Abuse                | Abuse028_x264_10.png           | texting                   | 13.0%
+Abuse                | Abuse030_x264_460.png          | directing traffic         | 27.2%
+Abuse                | Abuse030_x264_450.png          | jaywalking                | 29.3%
+Abuse                | Abuse028_x264_1110.png         | texting                   | 12.3%
+Abuse                | Abuse028_x264_960.png          | texting                   | 13.6%
+Abuse                | Abuse028_x264_760.png          | parkour                   | 13.7%
+Abuse                | Abuse030_x264_270.png          | directing traffic         | 19.8%
+Abuse                | Abuse028_x264_530.png          | news anchoring            | 16.5%
+Abuse                | Abuse028_x264_460.png          | news anchoring            | 11.4%
+Abuse                | Abuse030_x264_740.png          | jaywalking                | 45.8%
+Abuse                | Abuse028_x264_490.png          | news anchoring            | 15.8%
+Abuse                | Abuse030_x264_970.png          | jaywalking                | 33.1%
+Abuse                | Abuse028_x264_590.png          | news anchoring            | 34.6%
+Abuse                | Abuse028_x264_1240.png         | news anchoring            | 13.6%
+Abuse                | Abuse028_x264_1310.png         | news anchoring            | 10.1%
+Abuse                | Abuse030_x264_1090.png         | jaywalking                | 33.7%
+Abuse                | Abuse030_x264_900.png          | jaywalking                | 46.7%
+Abuse                | Abuse028_x264_550.png          | news anchoring            | 16.4%
+Abuse                | Abuse030_x264_60.png           | directing traffic         | 43.0%
+Abuse                | Abuse030_x264_130.png          | directing traffic         | 36.1%
+Abuse                | Abuse030_x264_830.png          | jaywalking                | 42.1%
+Abuse                | Abuse030_x264_490.png          | directing traffic         | 28.9%
+Abuse                | Abuse028_x264_1400.png         | news anchoring            | 10.7%
+Abuse                | Abuse028_x264_440.png          | news anchoring            | 14.2%
+Abuse                | Abuse030_x264_840.png          | jaywalking                | 46.0%
+Abuse                | Abuse030_x264_1500.png         | directing traffic         | 46.3%
+Abuse                | Abuse030_x264_940.png          | jaywalking                | 27.5%
+Abuse                | Abuse028_x264_130.png          | planting trees            | 10.9%
+Abuse                | Abuse028_x264_1330.png         | news anchoring            | 11.2%

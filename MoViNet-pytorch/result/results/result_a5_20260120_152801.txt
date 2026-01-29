@@ -1,0 +1,30 @@
+Video: /home/etri/ucfdata/Fighting/Fighting026_x264_trimmed.mp4
+Model: a5
+--------------------------------------------------
+Time:   0.0s | celebrating               |  35.3%
+Time:   0.6s | celebrating               |  54.4%
+Time:   1.2s | celebrating               |  37.7%
+Time:   1.8s | celebrating               |  53.3%
+Time:   2.4s | celebrating               |  53.3%
+Time:   3.0s | celebrating               |  35.7%
+Time:   3.6s | celebrating               |  39.0%
+Time:   4.2s | celebrating               |  36.3%
+Time:   4.8s | celebrating               |  49.1%
+Time:   5.4s | celebrating               |  47.8%
+Time:   6.0s | celebrating               |  33.9%
+Time:   6.6s | celebrating               |  68.2%
+Time:   7.2s | celebrating               |  71.1%
+Time:   7.8s | celebrating               |  83.9%
+Time:   8.4s | celebrating               |  97.2%
+Time:   9.0s | celebrating               |  86.6%
+Time:   9.6s | celebrating               |  91.8%
+Time:  10.2s | celebrating               |  62.5%
+Time:  10.8s | celebrating               |  35.2%
+Time:  11.4s | celebrating               |  41.7%
+Time:  12.0s | celebrating               |  26.8%
+Time:  12.6s | celebrating               |  67.4%
+Time:  13.2s | celebrating               |  38.2%
+Time:  13.8s | celebrating               |  71.9%
+Time:  14.4s | celebrating               |  59.2%
+Time:  15.0s | celebrating               |  36.5%
+Time:  15.6s | celebrating               |  41.2%

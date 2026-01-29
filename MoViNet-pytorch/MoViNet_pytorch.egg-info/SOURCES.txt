@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+MoViNet_pytorch.egg-info/PKG-INFO
+MoViNet_pytorch.egg-info/SOURCES.txt
+MoViNet_pytorch.egg-info/dependency_links.txt
+MoViNet_pytorch.egg-info/requires.txt
+MoViNet_pytorch.egg-info/top_level.txt
+movinets/__init__.py
+movinets/config.py
+movinets/models.py

@@ -1,0 +1,30 @@
+Video: /home/etri/ucfdata/Abuse/Abuse025_x264_trimmed.mp4
+Model: a5
+--------------------------------------------------
+Time:   0.0s | playing scrabble          |  22.8%
+Time:   0.6s | wrapping present          |  29.3%
+Time:   1.2s | wrapping present          |  29.3%
+Time:   1.8s | wrapping present          |  24.1%
+Time:   2.4s | opening present           |  32.1%
+Time:   3.0s | opening present           |  37.8%
+Time:   3.6s | opening present           |  36.2%
+Time:   4.2s | wrapping present          |  21.8%
+Time:   4.8s | opening present           |  28.7%
+Time:   5.4s | opening present           |  20.5%
+Time:   6.0s | playing scrabble          |  18.8%
+Time:   6.6s | wrapping present          |  33.2%
+Time:   7.2s | wrapping present          |  32.4%
+Time:   7.8s | playing scrabble          |  14.5%
+Time:   8.4s | playing scrabble          |  21.9%
+Time:   9.0s | wrapping present          |  36.0%
+Time:   9.6s | laying bricks             |  54.3%
+Time:  10.2s | playing dominoes          |  17.7%
+Time:  10.8s | playing dominoes          |  40.2%
+Time:  11.4s | playing dominoes          |  65.6%
+Time:  12.0s | playing dominoes          |  63.3%
+Time:  12.6s | playing dominoes          |  51.3%
+Time:  13.2s | playing dominoes          |  46.1%
+Time:  13.8s | playing dominoes          |  60.4%
+Time:  14.4s | playing dominoes          |  45.9%
+Time:  15.0s | playing dominoes          |  55.4%
+Time:  15.6s | playing dominoes          |  46.7%

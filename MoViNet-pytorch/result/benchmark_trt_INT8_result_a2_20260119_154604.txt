@@ -1,0 +1,306 @@
+=== MoViNet TensorRT INT8 Benchmark Report ===
+Date: 20260119_154604
+Model: MoViNet-A2 (INT8 Quantized)
+Input Shape: (1, 3, 8, 172, 172)
+Total Images: 297
+Average FPS: 50.26
+==========================================================================================
+Folder               | File                           | Prediction                | Score
+------------------------------------------------------------------------------------------
+Abuse                | Abuse028_x264_0.png            | presenting weather forecast | 40.7%
+Abuse                | Abuse028_x264_10.png           | presenting weather forecast | 41.0%
+Abuse                | Abuse028_x264_100.png          | playing controller        | 13.5%
+Abuse                | Abuse028_x264_1000.png         | dancing ballet            | 12.3%
+Abuse                | Abuse028_x264_1010.png         | lunge                     | 13.4%
+Abuse                | Abuse028_x264_1020.png         | lunge                     | 23.2%
+Abuse                | Abuse028_x264_1030.png         | lunge                     | 23.7%
+Abuse                | Abuse028_x264_1040.png         | dancing ballet            | 23.6%
+Abuse                | Abuse028_x264_1050.png         | gymnastics tumbling       | 41.6%
+Abuse                | Abuse028_x264_1060.png         | parkour                   | 20.1%
+Abuse                | Abuse028_x264_1070.png         | dancing ballet            | 13.0%
+Abuse                | Abuse028_x264_1080.png         | belly dancing             | 14.9%
+Abuse                | Abuse028_x264_1090.png         | belly dancing             | 51.3%
+Abuse                | Abuse028_x264_110.png          | presenting weather forecast | 8.9%
+Abuse                | Abuse028_x264_1100.png         | spray painting            | 6.0%
+Abuse                | Abuse028_x264_1110.png         | setting table             | 8.9%
+Abuse                | Abuse028_x264_1120.png         | setting table             | 9.3%
+Abuse                | Abuse028_x264_1130.png         | setting table             | 9.1%
+Abuse                | Abuse028_x264_1140.png         | setting table             | 11.0%
+Abuse                | Abuse028_x264_1150.png         | setting table             | 7.9%
+Abuse                | Abuse028_x264_1160.png         | tagging graffiti          | 56.5%
+Abuse                | Abuse028_x264_1170.png         | presenting weather forecast | 38.6%
+Abuse                | Abuse028_x264_1180.png         | presenting weather forecast | 36.3%
+Abuse                | Abuse028_x264_1190.png         | presenting weather forecast | 36.1%
+Abuse                | Abuse028_x264_120.png          | brush painting            | 17.4%
+Abuse                | Abuse028_x264_1200.png         | tagging graffiti          | 20.8%
+Abuse                | Abuse028_x264_1210.png         | tagging graffiti          | 17.1%
+Abuse                | Abuse028_x264_1220.png         | tagging graffiti          | 11.6%
+Abuse                | Abuse028_x264_1230.png         | setting table             | 8.5%
+Abuse                | Abuse028_x264_1240.png         | tagging graffiti          | 11.4%
+Abuse                | Abuse028_x264_1250.png         | tagging graffiti          | 29.3%
+Abuse                | Abuse028_x264_1260.png         | tagging graffiti          | 51.0%
+Abuse                | Abuse028_x264_1270.png         | presenting weather forecast | 38.6%
+Abuse                | Abuse028_x264_1280.png         | presenting weather forecast | 43.9%
+Abuse                | Abuse028_x264_1290.png         | presenting weather forecast | 40.9%
+Abuse                | Abuse028_x264_130.png          | doing jigsaw puzzle       | 38.0%
+Abuse                | Abuse028_x264_1300.png         | setting table             | 20.8%
+Abuse                | Abuse028_x264_1310.png         | setting table             | 23.8%
+Abuse                | Abuse028_x264_1320.png         | setting table             | 26.2%
+Abuse                | Abuse028_x264_1330.png         | setting table             | 32.7%
+Abuse                | Abuse028_x264_1340.png         | setting table             | 30.6%
+Abuse                | Abuse028_x264_1350.png         | setting table             | 15.7%
+Abuse                | Abuse028_x264_1360.png         | doing jigsaw puzzle       | 22.5%
+Abuse                | Abuse028_x264_1370.png         | presenting weather forecast | 39.4%
+Abuse                | Abuse028_x264_1380.png         | presenting weather forecast | 37.3%
+Abuse                | Abuse028_x264_1390.png         | presenting weather forecast | 41.4%
+Abuse                | Abuse028_x264_140.png          | doing jigsaw puzzle       | 26.7%
+Abuse                | Abuse028_x264_1400.png         | setting table             | 24.7%
+Abuse                | Abuse028_x264_1410.png         | setting table             | 26.4%
+Abuse                | Abuse028_x264_150.png          | setting table             | 16.6%
+Abuse                | Abuse028_x264_160.png          | setting table             | 45.2%
+Abuse                | Abuse028_x264_170.png          | setting table             | 12.2%
+Abuse                | Abuse028_x264_180.png          | brush painting            | 9.9%
+Abuse                | Abuse028_x264_190.png          | cleaning windows          | 3.8%
+Abuse                | Abuse028_x264_20.png           | doing jigsaw puzzle       | 4.2%
+Abuse                | Abuse028_x264_200.png          | spinning poi              | 13.5%
+Abuse                | Abuse028_x264_210.png          | gymnastics tumbling       | 8.7%
+Abuse                | Abuse028_x264_220.png          | yoga                      | 8.8%
+Abuse                | Abuse028_x264_230.png          | cleaning windows          | 12.4%
+Abuse                | Abuse028_x264_240.png          | feeding birds             | 8.1%
+Abuse                | Abuse028_x264_250.png          | spinning poi              | 18.5%
+Abuse                | Abuse028_x264_260.png          | gymnastics tumbling       | 14.7%
+Abuse                | Abuse028_x264_270.png          | singing                   | 12.7%
+Abuse                | Abuse028_x264_280.png          | trapezing                 | 24.4%
+Abuse                | Abuse028_x264_290.png          | playing basketball        | 43.8%
+Abuse                | Abuse028_x264_30.png           | trapezing                 | 13.8%
+Abuse                | Abuse028_x264_300.png          | spinning poi              | 35.4%
+Abuse                | Abuse028_x264_310.png          | spinning poi              | 11.5%
+Abuse                | Abuse028_x264_320.png          | feeding birds             | 7.6%
+Abuse                | Abuse028_x264_330.png          | gymnastics tumbling       | 6.0%
+Abuse                | Abuse028_x264_340.png          | gymnastics tumbling       | 6.9%
+Abuse                | Abuse028_x264_350.png          | gymnastics tumbling       | 9.0%
+Abuse                | Abuse028_x264_360.png          | gymnastics tumbling       | 63.8%
+Abuse                | Abuse028_x264_370.png          | delivering mail           | 25.7%
+Abuse                | Abuse028_x264_380.png          | delivering mail           | 46.9%
+Abuse                | Abuse028_x264_390.png          | delivering mail           | 41.9%
+Abuse                | Abuse028_x264_40.png           | gymnastics tumbling       | 66.1%
+Abuse                | Abuse028_x264_400.png          | gymnastics tumbling       | 46.6%
+Abuse                | Abuse028_x264_410.png          | shooting basketball       | 12.7%
+Abuse                | Abuse028_x264_420.png          | gymnastics tumbling       | 15.5%
+Abuse                | Abuse028_x264_430.png          | gymnastics tumbling       | 6.4%
+Abuse                | Abuse028_x264_440.png          | cleaning windows          | 5.7%
+Abuse                | Abuse028_x264_450.png          | playing controller        | 6.2%
+Abuse                | Abuse028_x264_460.png          | gymnastics tumbling       | 43.8%
+Abuse                | Abuse028_x264_470.png          | trapezing                 | 11.5%
+Abuse                | Abuse028_x264_480.png          | presenting weather forecast | 33.8%
+Abuse                | Abuse028_x264_490.png          | presenting weather forecast | 41.3%
+Abuse                | Abuse028_x264_50.png           | gymnastics tumbling       | 23.2%
+Abuse                | Abuse028_x264_500.png          | gymnastics tumbling       | 11.5%
+Abuse                | Abuse028_x264_510.png          | presenting weather forecast | 6.7%
+Abuse                | Abuse028_x264_520.png          | gymnastics tumbling       | 13.7%
+Abuse                | Abuse028_x264_530.png          | trapezing                 | 12.7%
+Abuse                | Abuse028_x264_540.png          | gymnastics tumbling       | 13.7%
+Abuse                | Abuse028_x264_550.png          | gymnastics tumbling       | 18.8%
+Abuse                | Abuse028_x264_560.png          | gymnastics tumbling       | 13.7%
+Abuse                | Abuse028_x264_570.png          | presenting weather forecast | 39.9%
+Abuse                | Abuse028_x264_580.png          | presenting weather forecast | 31.6%
+Abuse                | Abuse028_x264_590.png          | presenting weather forecast | 33.1%
+Abuse                | Abuse028_x264_60.png           | gymnastics tumbling       | 18.5%
+Abuse                | Abuse028_x264_600.png          | gymnastics tumbling       | 21.6%
+Abuse                | Abuse028_x264_610.png          | gymnastics tumbling       | 49.1%
+Abuse                | Abuse028_x264_620.png          | gymnastics tumbling       | 57.9%
+Abuse                | Abuse028_x264_630.png          | gymnastics tumbling       | 42.4%
+Abuse                | Abuse028_x264_640.png          | gymnastics tumbling       | 36.1%
+Abuse                | Abuse028_x264_650.png          | gymnastics tumbling       | 35.1%
+Abuse                | Abuse028_x264_660.png          | gymnastics tumbling       | 56.4%
+Abuse                | Abuse028_x264_670.png          | delivering mail           | 37.9%
+Abuse                | Abuse028_x264_680.png          | delivering mail           | 35.5%
+Abuse                | Abuse028_x264_690.png          | yoga                      | 29.6%
+Abuse                | Abuse028_x264_70.png           | yoga                      | 17.7%
+Abuse                | Abuse028_x264_700.png          | delivering mail           | 11.4%
+Abuse                | Abuse028_x264_710.png          | yoga                      | 12.0%
+Abuse                | Abuse028_x264_720.png          | yoga                      | 11.6%
+Abuse                | Abuse028_x264_730.png          | yoga                      | 14.4%
+Abuse                | Abuse028_x264_740.png          | yoga                      | 11.2%
+Abuse                | Abuse028_x264_750.png          | yoga                      | 28.7%
+Abuse                | Abuse028_x264_760.png          | yoga                      | 17.3%
+Abuse                | Abuse028_x264_770.png          | yoga                      | 24.0%
+Abuse                | Abuse028_x264_780.png          | yoga                      | 15.1%
+Abuse                | Abuse028_x264_790.png          | yoga                      | 39.3%
+Abuse                | Abuse028_x264_80.png           | tagging graffiti          | 9.1%
+Abuse                | Abuse028_x264_800.png          | tagging graffiti          | 27.1%
+Abuse                | Abuse028_x264_810.png          | tagging graffiti          | 17.1%
+Abuse                | Abuse028_x264_820.png          | setting table             | 11.3%
+Abuse                | Abuse028_x264_830.png          | setting table             | 9.8%
+Abuse                | Abuse028_x264_840.png          | yoga                      | 15.2%
+Abuse                | Abuse028_x264_850.png          | yoga                      | 20.0%
+Abuse                | Abuse028_x264_860.png          | yoga                      | 34.3%
+Abuse                | Abuse028_x264_870.png          | yoga                      | 25.3%
+Abuse                | Abuse028_x264_880.png          | yoga                      | 29.4%
+Abuse                | Abuse028_x264_890.png          | yoga                      | 15.5%
+Abuse                | Abuse028_x264_90.png           | yoga                      | 14.9%
+Abuse                | Abuse028_x264_900.png          | yoga                      | 8.4%
+Abuse                | Abuse028_x264_910.png          | yoga                      | 12.6%
+Abuse                | Abuse028_x264_920.png          | yoga                      | 29.7%
+Abuse                | Abuse028_x264_930.png          | yoga                      | 39.9%
+Abuse                | Abuse028_x264_940.png          | yoga                      | 36.5%
+Abuse                | Abuse028_x264_950.png          | yoga                      | 6.1%
+Abuse                | Abuse028_x264_960.png          | faceplanting              | 11.2%
+Abuse                | Abuse028_x264_970.png          | delivering mail           | 24.8%
+Abuse                | Abuse028_x264_980.png          | delivering mail           | 21.8%
+Abuse                | Abuse028_x264_990.png          | acting in play            | 13.4%
+Abuse                | Abuse030_x264_0.png            | delivering mail           | 21.8%
+Abuse                | Abuse030_x264_10.png           | delivering mail           | 17.0%
+Abuse                | Abuse030_x264_100.png          | delivering mail           | 58.3%
+Abuse                | Abuse030_x264_1000.png         | delivering mail           | 14.6%
+Abuse                | Abuse030_x264_1010.png         | delivering mail           | 12.8%
+Abuse                | Abuse030_x264_1020.png         | building shed             | 16.0%
+Abuse                | Abuse030_x264_1030.png         | motorcycling              | 8.2%
+Abuse                | Abuse030_x264_1040.png         | delivering mail           | 19.2%
+Abuse                | Abuse030_x264_1050.png         | docking boat              | 15.6%
+Abuse                | Abuse030_x264_1060.png         | docking boat              | 16.4%
+Abuse                | Abuse030_x264_1070.png         | docking boat              | 12.3%
+Abuse                | Abuse030_x264_1080.png         | docking boat              | 13.2%
+Abuse                | Abuse030_x264_1090.png         | docking boat              | 6.3%
+Abuse                | Abuse030_x264_110.png          | docking boat              | 13.6%
+Abuse                | Abuse030_x264_1100.png         | playing drums             | 11.7%
+Abuse                | Abuse030_x264_1110.png         | jaywalking                | 10.2%
+Abuse                | Abuse030_x264_1120.png         | jaywalking                | 37.8%
+Abuse                | Abuse030_x264_1130.png         | jaywalking                | 33.6%
+Abuse                | Abuse030_x264_1140.png         | jaywalking                | 47.0%
+Abuse                | Abuse030_x264_1150.png         | jaywalking                | 71.5%
+Abuse                | Abuse030_x264_1160.png         | jaywalking                | 65.1%
+Abuse                | Abuse030_x264_1170.png         | jaywalking                | 36.7%
+Abuse                | Abuse030_x264_1180.png         | jaywalking                | 54.3%
+Abuse                | Abuse030_x264_1190.png         | jaywalking                | 47.1%
+Abuse                | Abuse030_x264_120.png          | jaywalking                | 71.3%
+Abuse                | Abuse030_x264_1200.png         | jaywalking                | 43.0%
+Abuse                | Abuse030_x264_1210.png         | jaywalking                | 26.0%
+Abuse                | Abuse030_x264_1220.png         | shoveling snow            | 32.4%
+Abuse                | Abuse030_x264_1230.png         | shoveling snow            | 45.6%
+Abuse                | Abuse030_x264_1240.png         | shoveling snow            | 22.7%
+Abuse                | Abuse030_x264_1250.png         | shoveling snow            | 26.1%
+Abuse                | Abuse030_x264_1260.png         | delivering mail           | 39.7%
+Abuse                | Abuse030_x264_1270.png         | delivering mail           | 38.0%
+Abuse                | Abuse030_x264_1280.png         | delivering mail           | 37.8%
+Abuse                | Abuse030_x264_1290.png         | delivering mail           | 49.4%
+Abuse                | Abuse030_x264_130.png          | delivering mail           | 43.8%
+Abuse                | Abuse030_x264_1300.png         | delivering mail           | 46.2%
+Abuse                | Abuse030_x264_1310.png         | delivering mail           | 23.4%
+Abuse                | Abuse030_x264_1320.png         | delivering mail           | 20.5%
+Abuse                | Abuse030_x264_1330.png         | delivering mail           | 26.3%
+Abuse                | Abuse030_x264_1340.png         | delivering mail           | 28.4%
+Abuse                | Abuse030_x264_1350.png         | delivering mail           | 30.0%
+Abuse                | Abuse030_x264_1360.png         | delivering mail           | 55.2%
+Abuse                | Abuse030_x264_1370.png         | delivering mail           | 50.5%
+Abuse                | Abuse030_x264_1380.png         | delivering mail           | 64.5%
+Abuse                | Abuse030_x264_1390.png         | delivering mail           | 57.6%
+Abuse                | Abuse030_x264_140.png          | delivering mail           | 73.7%
+Abuse                | Abuse030_x264_1400.png         | delivering mail           | 60.9%
+Abuse                | Abuse030_x264_1410.png         | delivering mail           | 46.0%
+Abuse                | Abuse030_x264_1420.png         | delivering mail           | 37.9%
+Abuse                | Abuse030_x264_1430.png         | delivering mail           | 43.7%
+Abuse                | Abuse030_x264_1440.png         | delivering mail           | 65.5%
+Abuse                | Abuse030_x264_1450.png         | delivering mail           | 40.7%
+Abuse                | Abuse030_x264_1460.png         | delivering mail           | 45.9%
+Abuse                | Abuse030_x264_1470.png         | delivering mail           | 51.3%
+Abuse                | Abuse030_x264_1480.png         | delivering mail           | 35.9%
+Abuse                | Abuse030_x264_1490.png         | delivering mail           | 26.8%
+Abuse                | Abuse030_x264_150.png          | delivering mail           | 25.8%
+Abuse                | Abuse030_x264_1500.png         | delivering mail           | 30.8%
+Abuse                | Abuse030_x264_1510.png         | delivering mail           | 27.4%
+Abuse                | Abuse030_x264_1520.png         | delivering mail           | 29.5%
+Abuse                | Abuse030_x264_1530.png         | delivering mail           | 25.7%
+Abuse                | Abuse030_x264_1540.png         | delivering mail           | 10.7%
+Abuse                | Abuse030_x264_160.png          | delivering mail           | 12.6%
+Abuse                | Abuse030_x264_170.png          | delivering mail           | 13.9%
+Abuse                | Abuse030_x264_180.png          | delivering mail           | 15.7%
+Abuse                | Abuse030_x264_190.png          | delivering mail           | 24.6%
+Abuse                | Abuse030_x264_20.png           | delivering mail           | 39.3%
+Abuse                | Abuse030_x264_200.png          | shoveling snow            | 10.4%
+Abuse                | Abuse030_x264_210.png          | shoveling snow            | 13.7%
+Abuse                | Abuse030_x264_220.png          | shoveling snow            | 22.2%
+Abuse                | Abuse030_x264_230.png          | delivering mail           | 25.6%
+Abuse                | Abuse030_x264_240.png          | delivering mail           | 31.9%
+Abuse                | Abuse030_x264_250.png          | delivering mail           | 25.2%
+Abuse                | Abuse030_x264_260.png          | delivering mail           | 48.4%
+Abuse                | Abuse030_x264_270.png          | delivering mail           | 56.3%
+Abuse                | Abuse030_x264_280.png          | delivering mail           | 69.4%
+Abuse                | Abuse030_x264_290.png          | delivering mail           | 62.2%
+Abuse                | Abuse030_x264_30.png           | delivering mail           | 34.0%
+Abuse                | Abuse030_x264_300.png          | delivering mail           | 38.8%
+Abuse                | Abuse030_x264_310.png          | delivering mail           | 32.2%
+Abuse                | Abuse030_x264_320.png          | delivering mail           | 14.7%
+Abuse                | Abuse030_x264_330.png          | delivering mail           | 18.9%
+Abuse                | Abuse030_x264_340.png          | delivering mail           | 15.0%
+Abuse                | Abuse030_x264_350.png          | delivering mail           | 13.3%
+Abuse                | Abuse030_x264_360.png          | delivering mail           | 41.9%
+Abuse                | Abuse030_x264_370.png          | delivering mail           | 24.9%
+Abuse                | Abuse030_x264_380.png          | delivering mail           | 22.8%
+Abuse                | Abuse030_x264_390.png          | delivering mail           | 20.1%
+Abuse                | Abuse030_x264_40.png           | delivering mail           | 7.7%
+Abuse                | Abuse030_x264_400.png          | shoveling snow            | 6.3%
+Abuse                | Abuse030_x264_410.png          | building shed             | 19.4%
+Abuse                | Abuse030_x264_420.png          | building shed             | 34.0%
+Abuse                | Abuse030_x264_430.png          | building shed             | 20.4%
+Abuse                | Abuse030_x264_440.png          | building shed             | 15.5%
+Abuse                | Abuse030_x264_450.png          | delivering mail           | 14.4%
+Abuse                | Abuse030_x264_460.png          | delivering mail           | 43.0%
+Abuse                | Abuse030_x264_470.png          | delivering mail           | 32.3%
+Abuse                | Abuse030_x264_480.png          | delivering mail           | 33.7%
+Abuse                | Abuse030_x264_490.png          | delivering mail           | 39.2%
+Abuse                | Abuse030_x264_50.png           | jaywalking                | 21.8%
+Abuse                | Abuse030_x264_500.png          | delivering mail           | 24.8%
+Abuse                | Abuse030_x264_510.png          | jaywalking                | 16.8%
+Abuse                | Abuse030_x264_520.png          | jaywalking                | 10.0%
+Abuse                | Abuse030_x264_530.png          | building shed             | 13.8%
+Abuse                | Abuse030_x264_540.png          | delivering mail           | 13.8%
+Abuse                | Abuse030_x264_550.png          | delivering mail           | 11.5%
+Abuse                | Abuse030_x264_560.png          | delivering mail           | 22.6%
+Abuse                | Abuse030_x264_570.png          | delivering mail           | 24.5%
+Abuse                | Abuse030_x264_580.png          | climbing a rope           | 20.2%
+Abuse                | Abuse030_x264_590.png          | pumping gas               | 13.9%
+Abuse                | Abuse030_x264_60.png           | delivering mail           | 11.5%
+Abuse                | Abuse030_x264_600.png          | delivering mail           | 14.4%
+Abuse                | Abuse030_x264_610.png          | building shed             | 7.4%
+Abuse                | Abuse030_x264_620.png          | building shed             | 13.2%
+Abuse                | Abuse030_x264_630.png          | building shed             | 8.6%
+Abuse                | Abuse030_x264_640.png          | building shed             | 9.2%
+Abuse                | Abuse030_x264_650.png          | welding                   | 17.5%
+Abuse                | Abuse030_x264_660.png          | delivering mail           | 9.6%
+Abuse                | Abuse030_x264_670.png          | delivering mail           | 16.1%
+Abuse                | Abuse030_x264_680.png          | delivering mail           | 7.0%
+Abuse                | Abuse030_x264_690.png          | delivering mail           | 6.0%
+Abuse                | Abuse030_x264_70.png           | changing oil              | 6.7%
+Abuse                | Abuse030_x264_700.png          | playing drums             | 5.4%
+Abuse                | Abuse030_x264_710.png          | building shed             | 13.8%
+Abuse                | Abuse030_x264_720.png          | building shed             | 22.9%
+Abuse                | Abuse030_x264_730.png          | building shed             | 18.3%
+Abuse                | Abuse030_x264_740.png          | docking boat              | 9.1%
+Abuse                | Abuse030_x264_750.png          | welding                   | 9.9%
+Abuse                | Abuse030_x264_760.png          | delivering mail           | 6.7%
+Abuse                | Abuse030_x264_770.png          | delivering mail           | 10.0%
+Abuse                | Abuse030_x264_780.png          | delivering mail           | 8.9%
+Abuse                | Abuse030_x264_790.png          | delivering mail           | 10.7%
+Abuse                | Abuse030_x264_80.png           | changing oil              | 4.8%
+Abuse                | Abuse030_x264_800.png          | playing drums             | 7.4%
+Abuse                | Abuse030_x264_810.png          | building shed             | 13.4%
+Abuse                | Abuse030_x264_820.png          | building shed             | 20.1%
+Abuse                | Abuse030_x264_830.png          | building shed             | 11.6%
+Abuse                | Abuse030_x264_840.png          | docking boat              | 13.9%
+Abuse                | Abuse030_x264_850.png          | welding                   | 8.6%
+Abuse                | Abuse030_x264_860.png          | delivering mail           | 6.5%
+Abuse                | Abuse030_x264_870.png          | delivering mail           | 8.9%
+Abuse                | Abuse030_x264_880.png          | delivering mail           | 12.0%
+Abuse                | Abuse030_x264_890.png          | delivering mail           | 8.3%
+Abuse                | Abuse030_x264_90.png           | delivering mail           | 7.1%
+Abuse                | Abuse030_x264_900.png          | building shed             | 6.2%
+Abuse                | Abuse030_x264_910.png          | building shed             | 16.1%
+Abuse                | Abuse030_x264_920.png          | building shed             | 15.5%
+Abuse                | Abuse030_x264_930.png          | building shed             | 9.3%
+Abuse                | Abuse030_x264_940.png          | docking boat              | 9.7%
+Abuse                | Abuse030_x264_950.png          | welding                   | 11.7%
+Abuse                | Abuse030_x264_960.png          | docking boat              | 9.5%
+Abuse                | Abuse030_x264_970.png          | delivering mail           | 7.2%
+Abuse                | Abuse030_x264_980.png          | delivering mail           | 7.8%
+Abuse                | Abuse030_x264_990.png          | docking boat              | 8.3%

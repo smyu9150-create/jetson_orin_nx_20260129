@@ -1,0 +1,306 @@
+=== MoViNet Benchmark Report ===
+Date: 20260119_140839
+Model: MoViNet-A0
+Parameters: 3.75 M
+Total Images: 297
+Average FPS: 14.85
+==========================================================================================
+Folder               | File                           | Prediction                | Score
+------------------------------------------------------------------------------------------
+Abuse                | Abuse028_x264_300.png          | mushroom foraging         | 32.0%
+Abuse                | Abuse028_x264_1010.png         | mushroom foraging         | 28.3%
+Abuse                | Abuse030_x264_1130.png         | mushroom foraging         | 17.9%
+Abuse                | Abuse030_x264_50.png           | mushroom foraging         | 10.7%
+Abuse                | Abuse030_x264_1370.png         | cleaning windows          | 7.9%
+Abuse                | Abuse030_x264_730.png          | cleaning windows          | 10.8%
+Abuse                | Abuse028_x264_1070.png         | cleaning windows          | 14.9%
+Abuse                | Abuse030_x264_1230.png         | cleaning windows          | 19.3%
+Abuse                | Abuse030_x264_980.png          | cleaning windows          | 23.6%
+Abuse                | Abuse028_x264_250.png          | cleaning windows          | 24.1%
+Abuse                | Abuse028_x264_270.png          | cleaning windows          | 26.9%
+Abuse                | Abuse028_x264_1370.png         | cleaning windows          | 31.8%
+Abuse                | Abuse030_x264_280.png          | cleaning windows          | 37.1%
+Abuse                | Abuse028_x264_750.png          | cleaning windows          | 36.9%
+Abuse                | Abuse030_x264_1040.png         | cleaning windows          | 27.8%
+Abuse                | Abuse030_x264_1280.png         | cleaning windows          | 31.5%
+Abuse                | Abuse028_x264_1020.png         | cleaning windows          | 31.5%
+Abuse                | Abuse028_x264_860.png          | cleaning windows          | 33.5%
+Abuse                | Abuse030_x264_1510.png         | cleaning windows          | 34.1%
+Abuse                | Abuse030_x264_1260.png         | cleaning windows          | 35.4%
+Abuse                | Abuse030_x264_750.png          | cleaning windows          | 36.6%
+Abuse                | Abuse030_x264_390.png          | cleaning windows          | 39.2%
+Abuse                | Abuse028_x264_200.png          | cleaning windows          | 39.8%
+Abuse                | Abuse030_x264_770.png          | cleaning windows          | 35.3%
+Abuse                | Abuse030_x264_10.png           | cleaning windows          | 35.7%
+Abuse                | Abuse030_x264_1100.png         | cleaning windows          | 34.3%
+Abuse                | Abuse028_x264_390.png          | cleaning windows          | 32.7%
+Abuse                | Abuse028_x264_290.png          | cleaning windows          | 34.8%
+Abuse                | Abuse030_x264_1080.png         | cleaning windows          | 32.2%
+Abuse                | Abuse030_x264_1480.png         | cleaning windows          | 33.0%
+Abuse                | Abuse028_x264_400.png          | cleaning windows          | 31.5%
+Abuse                | Abuse028_x264_100.png          | cleaning windows          | 28.9%
+Abuse                | Abuse030_x264_140.png          | cleaning windows          | 28.5%
+Abuse                | Abuse030_x264_1540.png         | cleaning windows          | 29.3%
+Abuse                | Abuse030_x264_220.png          | cleaning windows          | 30.7%
+Abuse                | Abuse028_x264_330.png          | cleaning windows          | 29.3%
+Abuse                | Abuse030_x264_700.png          | cleaning windows          | 26.6%
+Abuse                | Abuse028_x264_80.png           | cleaning windows          | 21.8%
+Abuse                | Abuse030_x264_790.png          | cleaning windows          | 19.5%
+Abuse                | Abuse028_x264_580.png          | cleaning windows          | 17.6%
+Abuse                | Abuse028_x264_650.png          | cleaning windows          | 16.3%
+Abuse                | Abuse028_x264_1220.png         | cleaning windows          | 17.0%
+Abuse                | Abuse028_x264_110.png          | cleaning windows          | 18.2%
+Abuse                | Abuse028_x264_870.png          | cleaning windows          | 21.5%
+Abuse                | Abuse030_x264_1120.png         | cleaning windows          | 24.2%
+Abuse                | Abuse028_x264_120.png          | cleaning windows          | 22.5%
+Abuse                | Abuse028_x264_1260.png         | cleaning windows          | 21.5%
+Abuse                | Abuse030_x264_310.png          | cleaning windows          | 21.5%
+Abuse                | Abuse030_x264_150.png          | cleaning windows          | 23.0%
+Abuse                | Abuse028_x264_990.png          | cleaning windows          | 22.4%
+Abuse                | Abuse028_x264_970.png          | cleaning windows          | 23.3%
+Abuse                | Abuse030_x264_720.png          | cleaning windows          | 23.2%
+Abuse                | Abuse030_x264_1520.png         | cleaning windows          | 23.9%
+Abuse                | Abuse028_x264_260.png          | cleaning windows          | 23.0%
+Abuse                | Abuse028_x264_500.png          | cleaning windows          | 22.2%
+Abuse                | Abuse030_x264_500.png          | cleaning windows          | 21.0%
+Abuse                | Abuse030_x264_710.png          | cleaning windows          | 21.6%
+Abuse                | Abuse028_x264_340.png          | cleaning windows          | 19.9%
+Abuse                | Abuse028_x264_1130.png         | cleaning windows          | 20.1%
+Abuse                | Abuse028_x264_1180.png         | cleaning windows          | 20.7%
+Abuse                | Abuse030_x264_1250.png         | cleaning windows          | 20.4%
+Abuse                | Abuse028_x264_980.png          | cleaning windows          | 17.7%
+Abuse                | Abuse030_x264_70.png           | cleaning windows          | 16.3%
+Abuse                | Abuse030_x264_530.png          | cleaning windows          | 16.8%
+Abuse                | Abuse028_x264_570.png          | cleaning windows          | 16.4%
+Abuse                | Abuse030_x264_590.png          | cleaning windows          | 15.4%
+Abuse                | Abuse030_x264_960.png          | cleaning windows          | 15.2%
+Abuse                | Abuse028_x264_160.png          | cleaning windows          | 14.5%
+Abuse                | Abuse028_x264_1270.png         | cleaning windows          | 13.9%
+Abuse                | Abuse030_x264_160.png          | cleaning windows          | 13.1%
+Abuse                | Abuse030_x264_910.png          | cleaning windows          | 13.1%
+Abuse                | Abuse028_x264_180.png          | cleaning windows          | 12.7%
+Abuse                | Abuse030_x264_440.png          | cleaning windows          | 11.8%
+Abuse                | Abuse028_x264_1120.png         | cleaning windows          | 11.6%
+Abuse                | Abuse030_x264_580.png          | cleaning windows          | 10.9%
+Abuse                | Abuse030_x264_480.png          | cleaning windows          | 11.3%
+Abuse                | Abuse028_x264_240.png          | cleaning windows          | 10.9%
+Abuse                | Abuse030_x264_1470.png         | cleaning windows          | 10.4%
+Abuse                | Abuse030_x264_470.png          | cleaning windows          | 10.2%
+Abuse                | Abuse028_x264_770.png          | cleaning windows          | 10.3%
+Abuse                | Abuse028_x264_1250.png         | cleaning windows          | 10.3%
+Abuse                | Abuse030_x264_1220.png         | cleaning windows          | 10.1%
+Abuse                | Abuse030_x264_1070.png         | cleaning windows          | 10.2%
+Abuse                | Abuse030_x264_880.png          | cleaning windows          | 10.6%
+Abuse                | Abuse028_x264_1160.png         | cleaning windows          | 10.5%
+Abuse                | Abuse028_x264_40.png           | cleaning windows          | 10.5%
+Abuse                | Abuse028_x264_1390.png         | cleaning windows          | 9.7%
+Abuse                | Abuse028_x264_640.png          | cleaning windows          | 9.8%
+Abuse                | Abuse030_x264_1180.png         | cleaning windows          | 10.1%
+Abuse                | Abuse030_x264_1060.png         | cleaning windows          | 10.6%
+Abuse                | Abuse030_x264_1010.png         | cleaning windows          | 11.2%
+Abuse                | Abuse028_x264_520.png          | cleaning windows          | 11.4%
+Abuse                | Abuse028_x264_1340.png         | cleaning windows          | 11.6%
+Abuse                | Abuse028_x264_410.png          | cleaning windows          | 11.6%
+Abuse                | Abuse030_x264_320.png          | cleaning windows          | 11.7%
+Abuse                | Abuse030_x264_1140.png         | cleaning windows          | 12.2%
+Abuse                | Abuse028_x264_1140.png         | cleaning windows          | 11.8%
+Abuse                | Abuse030_x264_1450.png         | cleaning windows          | 11.1%
+Abuse                | Abuse030_x264_1190.png         | cleaning windows          | 11.0%
+Abuse                | Abuse030_x264_1110.png         | cleaning windows          | 10.9%
+Abuse                | Abuse028_x264_210.png          | cleaning windows          | 10.4%
+Abuse                | Abuse028_x264_610.png          | cleaning windows          | 10.6%
+Abuse                | Abuse030_x264_430.png          | cleaning windows          | 10.1%
+Abuse                | Abuse028_x264_280.png          | cleaning windows          | 9.7%
+Abuse                | Abuse028_x264_720.png          | cleaning windows          | 9.5%
+Abuse                | Abuse030_x264_860.png          | cleaning windows          | 9.4%
+Abuse                | Abuse030_x264_510.png          | cleaning windows          | 9.6%
+Abuse                | Abuse030_x264_690.png          | cleaning windows          | 9.9%
+Abuse                | Abuse030_x264_370.png          | cleaning windows          | 10.1%
+Abuse                | Abuse030_x264_210.png          | cleaning windows          | 10.1%
+Abuse                | Abuse030_x264_360.png          | cleaning windows          | 9.9%
+Abuse                | Abuse028_x264_560.png          | cleaning windows          | 10.1%
+Abuse                | Abuse028_x264_170.png          | cleaning windows          | 10.0%
+Abuse                | Abuse028_x264_1150.png         | cleaning windows          | 10.3%
+Abuse                | Abuse028_x264_360.png          | cleaning windows          | 10.4%
+Abuse                | Abuse028_x264_1170.png         | cleaning windows          | 10.7%
+Abuse                | Abuse028_x264_890.png          | cleaning windows          | 11.0%
+Abuse                | Abuse030_x264_240.png          | cleaning windows          | 11.7%
+Abuse                | Abuse030_x264_1150.png         | cleaning windows          | 12.7%
+Abuse                | Abuse028_x264_740.png          | cleaning windows          | 12.7%
+Abuse                | Abuse028_x264_820.png          | cleaning windows          | 12.9%
+Abuse                | Abuse030_x264_80.png           | cleaning windows          | 12.7%
+Abuse                | Abuse028_x264_230.png          | cleaning windows          | 12.4%
+Abuse                | Abuse030_x264_680.png          | cleaning windows          | 12.0%
+Abuse                | Abuse028_x264_0.png            | cleaning windows          | 11.6%
+Abuse                | Abuse028_x264_1080.png         | cleaning windows          | 11.5%
+Abuse                | Abuse028_x264_1350.png         | cleaning windows          | 11.3%
+Abuse                | Abuse028_x264_1230.png         | cleaning windows          | 11.4%
+Abuse                | Abuse028_x264_30.png           | cleaning windows          | 10.9%
+Abuse                | Abuse028_x264_1380.png         | cleaning windows          | 11.2%
+Abuse                | Abuse028_x264_70.png           | cleaning windows          | 11.4%
+Abuse                | Abuse030_x264_800.png          | cleaning windows          | 11.8%
+Abuse                | Abuse028_x264_1360.png         | cleaning windows          | 11.3%
+Abuse                | Abuse030_x264_340.png          | cleaning windows          | 11.0%
+Abuse                | Abuse028_x264_1410.png         | cleaning windows          | 10.8%
+Abuse                | Abuse030_x264_520.png          | cleaning windows          | 10.4%
+Abuse                | Abuse028_x264_1090.png         | cleaning windows          | 10.2%
+Abuse                | Abuse028_x264_1210.png         | cleaning windows          | 10.3%
+Abuse                | Abuse028_x264_450.png          | cleaning windows          | 10.4%
+Abuse                | Abuse030_x264_1290.png         | cleaning windows          | 10.3%
+Abuse                | Abuse030_x264_260.png          | cleaning windows          | 10.9%
+Abuse                | Abuse028_x264_690.png          | cleaning windows          | 10.6%
+Abuse                | Abuse028_x264_830.png          | cleaning windows          | 10.2%
+Abuse                | Abuse030_x264_180.png          | cleaning windows          | 10.0%
+Abuse                | Abuse030_x264_1440.png         | cleaning windows          | 10.2%
+Abuse                | Abuse028_x264_350.png          | cleaning windows          | 9.9%
+Abuse                | Abuse028_x264_600.png          | cleaning windows          | 9.8%
+Abuse                | Abuse028_x264_710.png          | cleaning windows          | 9.0%
+Abuse                | Abuse030_x264_20.png           | cleaning windows          | 9.0%
+Abuse                | Abuse028_x264_420.png          | cleaning windows          | 8.8%
+Abuse                | Abuse028_x264_940.png          | cleaning windows          | 8.8%
+Abuse                | Abuse028_x264_1190.png         | cleaning windows          | 8.9%
+Abuse                | Abuse028_x264_920.png          | cleaning windows          | 9.0%
+Abuse                | Abuse030_x264_1000.png         | cleaning windows          | 9.1%
+Abuse                | Abuse028_x264_480.png          | cleaning windows          | 8.8%
+Abuse                | Abuse028_x264_1200.png         | cleaning windows          | 8.8%
+Abuse                | Abuse028_x264_730.png          | cleaning windows          | 8.6%
+Abuse                | Abuse028_x264_320.png          | cleaning windows          | 8.5%
+Abuse                | Abuse030_x264_890.png          | cleaning windows          | 8.5%
+Abuse                | Abuse028_x264_1300.png         | cleaning windows          | 8.3%
+Abuse                | Abuse028_x264_1040.png         | cleaning windows          | 8.3%
+Abuse                | Abuse030_x264_760.png          | cleaning windows          | 8.3%
+Abuse                | Abuse030_x264_250.png          | cleaning windows          | 8.4%
+Abuse                | Abuse030_x264_1270.png         | cleaning windows          | 8.5%
+Abuse                | Abuse030_x264_540.png          | cleaning windows          | 8.4%
+Abuse                | Abuse028_x264_540.png          | cleaning windows          | 8.5%
+Abuse                | Abuse030_x264_110.png          | cleaning windows          | 8.3%
+Abuse                | Abuse030_x264_1380.png         | cleaning windows          | 8.3%
+Abuse                | Abuse028_x264_50.png           | cleaning windows          | 8.2%
+Abuse                | Abuse028_x264_810.png          | cleaning windows          | 8.2%
+Abuse                | Abuse028_x264_700.png          | cleaning windows          | 7.7%
+Abuse                | Abuse030_x264_40.png           | cleaning windows          | 7.7%
+Abuse                | Abuse030_x264_1050.png         | cleaning windows          | 7.7%
+Abuse                | Abuse028_x264_660.png          | cleaning windows          | 7.7%
+Abuse                | Abuse028_x264_930.png          | cleaning windows          | 7.7%
+Abuse                | Abuse030_x264_610.png          | cleaning windows          | 7.5%
+Abuse                | Abuse028_x264_1060.png         | skateboarding             | 7.5%
+Abuse                | Abuse030_x264_1160.png         | skateboarding             | 7.5%
+Abuse                | Abuse030_x264_820.png          | skateboarding             | 7.4%
+Abuse                | Abuse028_x264_380.png          | skateboarding             | 7.4%
+Abuse                | Abuse030_x264_1300.png         | skateboarding             | 7.3%
+Abuse                | Abuse030_x264_1310.png         | skateboarding             | 7.2%
+Abuse                | Abuse030_x264_1210.png         | skateboarding             | 7.1%
+Abuse                | Abuse030_x264_230.png          | cleaning windows          | 7.0%
+Abuse                | Abuse030_x264_400.png          | cleaning windows          | 6.9%
+Abuse                | Abuse030_x264_1420.png         | cleaning windows          | 6.8%
+Abuse                | Abuse030_x264_120.png          | cleaning windows          | 6.9%
+Abuse                | Abuse030_x264_630.png          | cleaning windows          | 6.9%
+Abuse                | Abuse030_x264_780.png          | cleaning windows          | 6.9%
+Abuse                | Abuse030_x264_1400.png         | cleaning windows          | 6.8%
+Abuse                | Abuse030_x264_550.png          | cleaning windows          | 6.7%
+Abuse                | Abuse030_x264_1340.png         | cleaning windows          | 6.6%
+Abuse                | Abuse030_x264_670.png          | cleaning windows          | 6.5%
+Abuse                | Abuse028_x264_370.png          | cleaning windows          | 6.4%
+Abuse                | Abuse028_x264_470.png          | skateboarding             | 6.2%
+Abuse                | Abuse028_x264_1290.png         | skateboarding             | 6.2%
+Abuse                | Abuse030_x264_1360.png         | skateboarding             | 6.2%
+Abuse                | Abuse028_x264_20.png           | skateboarding             | 6.2%
+Abuse                | Abuse030_x264_920.png          | skateboarding             | 6.2%
+Abuse                | Abuse028_x264_900.png          | skateboarding             | 6.4%
+Abuse                | Abuse028_x264_800.png          | skateboarding             | 7.0%
+Abuse                | Abuse030_x264_200.png          | skateboarding             | 6.9%
+Abuse                | Abuse028_x264_910.png          | skateboarding             | 6.9%
+Abuse                | Abuse028_x264_430.png          | skateboarding             | 6.9%
+Abuse                | Abuse028_x264_1320.png         | skateboarding             | 6.9%
+Abuse                | Abuse030_x264_810.png          | skateboarding             | 6.8%
+Abuse                | Abuse030_x264_410.png          | skateboarding             | 6.8%
+Abuse                | Abuse030_x264_30.png           | skateboarding             | 6.7%
+Abuse                | Abuse030_x264_1410.png         | skateboarding             | 6.6%
+Abuse                | Abuse030_x264_640.png          | skateboarding             | 6.6%
+Abuse                | Abuse028_x264_310.png          | skateboarding             | 6.7%
+Abuse                | Abuse030_x264_850.png          | skateboarding             | 6.7%
+Abuse                | Abuse030_x264_1020.png         | skateboarding             | 6.6%
+Abuse                | Abuse028_x264_220.png          | skateboarding             | 6.6%
+Abuse                | Abuse030_x264_300.png          | skateboarding             | 6.6%
+Abuse                | Abuse030_x264_1530.png         | skateboarding             | 6.5%
+Abuse                | Abuse028_x264_780.png          | skateboarding             | 6.7%
+Abuse                | Abuse030_x264_620.png          | skateboarding             | 6.7%
+Abuse                | Abuse030_x264_930.png          | skateboarding             | 6.6%
+Abuse                | Abuse030_x264_170.png          | skateboarding             | 6.5%
+Abuse                | Abuse028_x264_1000.png         | skateboarding             | 6.5%
+Abuse                | Abuse030_x264_100.png          | skateboarding             | 6.5%
+Abuse                | Abuse028_x264_680.png          | skateboarding             | 6.6%
+Abuse                | Abuse030_x264_1170.png         | skateboarding             | 6.5%
+Abuse                | Abuse030_x264_1240.png         | skateboarding             | 6.6%
+Abuse                | Abuse028_x264_510.png          | skateboarding             | 6.6%
+Abuse                | Abuse028_x264_620.png          | skateboarding             | 6.8%
+Abuse                | Abuse028_x264_630.png          | skateboarding             | 7.5%
+Abuse                | Abuse028_x264_850.png          | skateboarding             | 8.1%
+Abuse                | Abuse028_x264_840.png          | skateboarding             | 8.4%
+Abuse                | Abuse030_x264_190.png          | skateboarding             | 8.3%
+Abuse                | Abuse028_x264_950.png          | skateboarding             | 8.2%
+Abuse                | Abuse030_x264_560.png          | skateboarding             | 8.1%
+Abuse                | Abuse030_x264_1320.png         | skateboarding             | 8.0%
+Abuse                | Abuse030_x264_0.png            | skateboarding             | 7.9%
+Abuse                | Abuse028_x264_60.png           | skateboarding             | 7.9%
+Abuse                | Abuse030_x264_570.png          | skateboarding             | 7.9%
+Abuse                | Abuse030_x264_870.png          | skateboarding             | 7.8%
+Abuse                | Abuse030_x264_90.png           | skateboarding             | 7.7%
+Abuse                | Abuse030_x264_1390.png         | skateboarding             | 7.6%
+Abuse                | Abuse028_x264_140.png          | skateboarding             | 7.7%
+Abuse                | Abuse028_x264_1030.png         | skateboarding             | 7.9%
+Abuse                | Abuse030_x264_650.png          | skateboarding             | 7.9%
+Abuse                | Abuse030_x264_380.png          | skateboarding             | 7.8%
+Abuse                | Abuse030_x264_290.png          | skateboarding             | 7.8%
+Abuse                | Abuse030_x264_600.png          | skateboarding             | 7.7%
+Abuse                | Abuse028_x264_1050.png         | skateboarding             | 7.8%
+Abuse                | Abuse030_x264_1460.png         | skateboarding             | 7.7%
+Abuse                | Abuse030_x264_1200.png         | skateboarding             | 7.6%
+Abuse                | Abuse030_x264_1030.png         | skateboarding             | 7.4%
+Abuse                | Abuse028_x264_190.png          | skateboarding             | 7.5%
+Abuse                | Abuse028_x264_790.png          | skateboarding             | 7.7%
+Abuse                | Abuse030_x264_1430.png         | skateboarding             | 7.7%
+Abuse                | Abuse028_x264_880.png          | skateboarding             | 7.6%
+Abuse                | Abuse030_x264_330.png          | skateboarding             | 7.6%
+Abuse                | Abuse030_x264_990.png          | skateboarding             | 7.6%
+Abuse                | Abuse030_x264_1330.png         | skateboarding             | 7.4%
+Abuse                | Abuse030_x264_660.png          | skateboarding             | 7.3%
+Abuse                | Abuse030_x264_420.png          | skateboarding             | 7.1%
+Abuse                | Abuse028_x264_150.png          | skateboarding             | 7.2%
+Abuse                | Abuse030_x264_1350.png         | skateboarding             | 7.1%
+Abuse                | Abuse028_x264_90.png           | skateboarding             | 7.1%
+Abuse                | Abuse030_x264_1490.png         | skateboarding             | 7.1%
+Abuse                | Abuse028_x264_1100.png         | skateboarding             | 7.1%
+Abuse                | Abuse030_x264_350.png          | skateboarding             | 7.2%
+Abuse                | Abuse028_x264_670.png          | skateboarding             | 7.6%
+Abuse                | Abuse030_x264_950.png          | skateboarding             | 7.6%
+Abuse                | Abuse028_x264_1280.png         | skateboarding             | 7.6%
+Abuse                | Abuse028_x264_10.png           | skateboarding             | 7.7%
+Abuse                | Abuse030_x264_460.png          | skateboarding             | 7.7%
+Abuse                | Abuse030_x264_450.png          | skateboarding             | 7.7%
+Abuse                | Abuse028_x264_1110.png         | skateboarding             | 7.7%
+Abuse                | Abuse028_x264_960.png          | skateboarding             | 7.9%
+Abuse                | Abuse028_x264_760.png          | skateboarding             | 9.0%
+Abuse                | Abuse030_x264_270.png          | skateboarding             | 8.9%
+Abuse                | Abuse028_x264_530.png          | skateboarding             | 8.9%
+Abuse                | Abuse028_x264_460.png          | skateboarding             | 8.8%
+Abuse                | Abuse030_x264_740.png          | skateboarding             | 8.7%
+Abuse                | Abuse028_x264_490.png          | skateboarding             | 8.7%
+Abuse                | Abuse030_x264_970.png          | skateboarding             | 8.7%
+Abuse                | Abuse028_x264_590.png          | skateboarding             | 8.7%
+Abuse                | Abuse028_x264_1240.png         | skateboarding             | 8.7%
+Abuse                | Abuse028_x264_1310.png         | skateboarding             | 8.6%
+Abuse                | Abuse030_x264_1090.png         | skateboarding             | 8.5%
+Abuse                | Abuse030_x264_900.png          | skateboarding             | 8.4%
+Abuse                | Abuse028_x264_550.png          | skateboarding             | 8.4%
+Abuse                | Abuse030_x264_60.png           | skateboarding             | 8.4%
+Abuse                | Abuse030_x264_130.png          | skateboarding             | 8.4%
+Abuse                | Abuse030_x264_830.png          | skateboarding             | 8.2%
+Abuse                | Abuse030_x264_490.png          | skateboarding             | 8.1%
+Abuse                | Abuse028_x264_1400.png         | skateboarding             | 8.3%
+Abuse                | Abuse028_x264_440.png          | skateboarding             | 8.4%
+Abuse                | Abuse030_x264_840.png          | skateboarding             | 8.4%
+Abuse                | Abuse030_x264_1500.png         | skateboarding             | 8.3%
+Abuse                | Abuse030_x264_940.png          | skateboarding             | 8.2%
+Abuse                | Abuse028_x264_130.png          | skateboarding             | 8.2%
+Abuse                | Abuse028_x264_1330.png         | skateboarding             | 8.4%

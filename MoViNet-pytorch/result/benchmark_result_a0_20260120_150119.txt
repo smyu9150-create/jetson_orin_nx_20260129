@@ -1,0 +1,307 @@
+=== MoViNet Benchmark Report ===
+Date: 20260120_150119
+Model: MoViNet-A0
+Resolution: 172x172
+Parameters: 3.75 M
+Total Images: 297
+Average FPS: 11.23
+==========================================================================================
+Folder               | File                           | Prediction                | Score
+------------------------------------------------------------------------------------------
+Abuse                | Abuse028_x264_300.png          | playing monopoly          | 83.5%
+Abuse                | Abuse028_x264_1010.png         | playing monopoly          | 80.7%
+Abuse                | Abuse030_x264_1130.png         | person collecting garbage | 23.7%
+Abuse                | Abuse030_x264_50.png           | hammer throw              | 56.8%
+Abuse                | Abuse030_x264_1370.png         | hammer throw              | 44.1%
+Abuse                | Abuse030_x264_730.png          | person collecting garbage | 30.3%
+Abuse                | Abuse028_x264_1070.png         | playing monopoly          | 99.2%
+Abuse                | Abuse030_x264_1230.png         | cleaning windows          | 23.0%
+Abuse                | Abuse030_x264_980.png          | cleaning windows          | 47.2%
+Abuse                | Abuse028_x264_250.png          | playing monopoly          | 77.6%
+Abuse                | Abuse028_x264_270.png          | playing monopoly          | 81.5%
+Abuse                | Abuse028_x264_1370.png         | playing monopoly          | 98.5%
+Abuse                | Abuse030_x264_280.png          | cleaning windows          | 42.5%
+Abuse                | Abuse028_x264_750.png          | playing monopoly          | 46.9%
+Abuse                | Abuse030_x264_1040.png         | cleaning windows          | 37.1%
+Abuse                | Abuse030_x264_1280.png         | hammer throw              | 20.2%
+Abuse                | Abuse028_x264_1020.png         | playing monopoly          | 89.2%
+Abuse                | Abuse028_x264_860.png          | playing monopoly          | 98.6%
+Abuse                | Abuse030_x264_1510.png         | hammer throw              | 78.7%
+Abuse                | Abuse030_x264_1260.png         | cleaning windows          | 14.1%
+Abuse                | Abuse030_x264_750.png          | cleaning windows          | 45.9%
+Abuse                | Abuse030_x264_390.png          | cleaning windows          | 43.6%
+Abuse                | Abuse028_x264_200.png          | playing monopoly          | 62.5%
+Abuse                | Abuse030_x264_770.png          | person collecting garbage | 38.4%
+Abuse                | Abuse030_x264_10.png           | hammer throw              | 56.8%
+Abuse                | Abuse030_x264_1100.png         | cleaning windows          | 36.1%
+Abuse                | Abuse028_x264_390.png          | playing monopoly          | 99.4%
+Abuse                | Abuse028_x264_290.png          | playing monopoly          | 78.1%
+Abuse                | Abuse030_x264_1080.png         | cleaning windows          | 38.7%
+Abuse                | Abuse030_x264_1480.png         | hammer throw              | 64.0%
+Abuse                | Abuse028_x264_400.png          | playing monopoly          | 99.6%
+Abuse                | Abuse028_x264_100.png          | playing monopoly          | 97.9%
+Abuse                | Abuse030_x264_140.png          | hammer throw              | 52.1%
+Abuse                | Abuse030_x264_1540.png         | hammer throw              | 58.7%
+Abuse                | Abuse030_x264_220.png          | cleaning windows          | 55.6%
+Abuse                | Abuse028_x264_330.png          | playing monopoly          | 92.8%
+Abuse                | Abuse030_x264_700.png          | cleaning windows          | 34.6%
+Abuse                | Abuse028_x264_80.png           | playing monopoly          | 74.5%
+Abuse                | Abuse030_x264_790.png          | person collecting garbage | 27.8%
+Abuse                | Abuse028_x264_580.png          | playing monopoly          | 99.6%
+Abuse                | Abuse028_x264_650.png          | playing monopoly          | 36.5%
+Abuse                | Abuse028_x264_1220.png         | playing monopoly          | 99.4%
+Abuse                | Abuse028_x264_110.png          | playing monopoly          | 98.4%
+Abuse                | Abuse028_x264_870.png          | playing monopoly          | 98.3%
+Abuse                | Abuse030_x264_1120.png         | cleaning windows          | 17.8%
+Abuse                | Abuse028_x264_120.png          | playing monopoly          | 92.9%
+Abuse                | Abuse028_x264_1260.png         | playing monopoly          | 98.9%
+Abuse                | Abuse030_x264_310.png          | cleaning windows          | 35.4%
+Abuse                | Abuse030_x264_150.png          | hammer throw              | 36.5%
+Abuse                | Abuse028_x264_990.png          | playing monopoly          | 76.0%
+Abuse                | Abuse028_x264_970.png          | playing monopoly          | 52.6%
+Abuse                | Abuse030_x264_720.png          | cleaning windows          | 41.2%
+Abuse                | Abuse030_x264_1520.png         | hammer throw              | 87.7%
+Abuse                | Abuse028_x264_260.png          | playing monopoly          | 77.6%
+Abuse                | Abuse028_x264_500.png          | playing monopoly          | 93.1%
+Abuse                | Abuse030_x264_500.png          | cleaning windows          | 51.2%
+Abuse                | Abuse030_x264_710.png          | cleaning windows          | 30.6%
+Abuse                | Abuse028_x264_340.png          | playing monopoly          | 87.5%
+Abuse                | Abuse028_x264_1130.png         | playing monopoly          | 99.1%
+Abuse                | Abuse028_x264_1180.png         | playing monopoly          | 98.0%
+Abuse                | Abuse030_x264_1250.png         | grooming dog              | 13.2%
+Abuse                | Abuse028_x264_980.png          | playing monopoly          | 52.6%
+Abuse                | Abuse030_x264_70.png           | hammer throw              | 59.2%
+Abuse                | Abuse030_x264_530.png          | cleaning windows          | 46.4%
+Abuse                | Abuse028_x264_570.png          | playing monopoly          | 99.4%
+Abuse                | Abuse030_x264_590.png          | cleaning windows          | 49.7%
+Abuse                | Abuse030_x264_960.png          | cleaning windows          | 29.0%
+Abuse                | Abuse028_x264_160.png          | playing monopoly          | 99.7%
+Abuse                | Abuse028_x264_1270.png         | playing monopoly          | 99.1%
+Abuse                | Abuse030_x264_160.png          | hammer throw              | 34.6%
+Abuse                | Abuse030_x264_910.png          | person collecting garbage | 40.6%
+Abuse                | Abuse028_x264_180.png          | playing monopoly          | 79.6%
+Abuse                | Abuse030_x264_440.png          | blasting sand             | 23.8%
+Abuse                | Abuse028_x264_1120.png         | playing monopoly          | 99.0%
+Abuse                | Abuse030_x264_580.png          | cleaning windows          | 36.2%
+Abuse                | Abuse030_x264_480.png          | cleaning windows          | 59.0%
+Abuse                | Abuse028_x264_240.png          | playing monopoly          | 54.9%
+Abuse                | Abuse030_x264_1470.png         | hammer throw              | 39.4%
+Abuse                | Abuse030_x264_470.png          | cleaning windows          | 56.2%
+Abuse                | Abuse028_x264_770.png          | playing monopoly          | 30.7%
+Abuse                | Abuse028_x264_1250.png         | playing monopoly          | 98.8%
+Abuse                | Abuse030_x264_1220.png         | cleaning windows          | 28.4%
+Abuse                | Abuse030_x264_1070.png         | cleaning windows          | 43.3%
+Abuse                | Abuse030_x264_880.png          | person collecting garbage | 22.8%
+Abuse                | Abuse028_x264_1160.png         | playing monopoly          | 99.0%
+Abuse                | Abuse028_x264_40.png           | playing monopoly          | 83.5%
+Abuse                | Abuse028_x264_1390.png         | playing monopoly          | 97.0%
+Abuse                | Abuse028_x264_640.png          | playing monopoly          | 65.1%
+Abuse                | Abuse030_x264_1180.png         | person collecting garbage | 15.5%
+Abuse                | Abuse030_x264_1060.png         | cleaning windows          | 32.1%
+Abuse                | Abuse030_x264_1010.png         | person collecting garbage | 36.6%
+Abuse                | Abuse028_x264_520.png          | playing monopoly          | 99.0%
+Abuse                | Abuse028_x264_1340.png         | playing monopoly          | 98.6%
+Abuse                | Abuse028_x264_410.png          | playing monopoly          | 90.9%
+Abuse                | Abuse030_x264_320.png          | cleaning windows          | 30.5%
+Abuse                | Abuse030_x264_1140.png         | person collecting garbage | 36.5%
+Abuse                | Abuse028_x264_1140.png         | playing monopoly          | 98.7%
+Abuse                | Abuse030_x264_1450.png         | hammer throw              | 67.5%
+Abuse                | Abuse030_x264_1190.png         | person collecting garbage | 26.2%
+Abuse                | Abuse030_x264_1110.png         | cleaning windows          | 23.6%
+Abuse                | Abuse028_x264_210.png          | playing monopoly          | 74.2%
+Abuse                | Abuse028_x264_610.png          | playing monopoly          | 94.9%
+Abuse                | Abuse030_x264_430.png          | person collecting garbage | 16.7%
+Abuse                | Abuse028_x264_280.png          | playing monopoly          | 95.5%
+Abuse                | Abuse028_x264_720.png          | playing monopoly          | 65.3%
+Abuse                | Abuse030_x264_860.png          | person collecting garbage | 35.1%
+Abuse                | Abuse030_x264_510.png          | cleaning windows          | 39.1%
+Abuse                | Abuse030_x264_690.png          | cleaning windows          | 41.8%
+Abuse                | Abuse030_x264_370.png          | cleaning windows          | 34.1%
+Abuse                | Abuse030_x264_210.png          | cleaning windows          | 44.9%
+Abuse                | Abuse030_x264_360.png          | cleaning windows          | 36.7%
+Abuse                | Abuse028_x264_560.png          | playing monopoly          | 99.4%
+Abuse                | Abuse028_x264_170.png          | playing monopoly          | 87.4%
+Abuse                | Abuse028_x264_1150.png         | playing monopoly          | 99.4%
+Abuse                | Abuse028_x264_360.png          | playing monopoly          | 87.1%
+Abuse                | Abuse028_x264_1170.png         | playing monopoly          | 98.8%
+Abuse                | Abuse028_x264_890.png          | playing monopoly          | 98.6%
+Abuse                | Abuse030_x264_240.png          | shopping                  | 30.9%
+Abuse                | Abuse030_x264_1150.png         | person collecting garbage | 24.8%
+Abuse                | Abuse028_x264_740.png          | playing monopoly          | 51.9%
+Abuse                | Abuse028_x264_820.png          | playing monopoly          | 89.1%
+Abuse                | Abuse030_x264_80.png           | hammer throw              | 63.4%
+Abuse                | Abuse028_x264_230.png          | playing monopoly          | 73.6%
+Abuse                | Abuse030_x264_680.png          | person collecting garbage | 42.5%
+Abuse                | Abuse028_x264_0.png            | playing monopoly          | 67.2%
+Abuse                | Abuse028_x264_1080.png         | playing monopoly          | 98.4%
+Abuse                | Abuse028_x264_1350.png         | playing monopoly          | 98.4%
+Abuse                | Abuse028_x264_1230.png         | playing monopoly          | 98.9%
+Abuse                | Abuse028_x264_30.png           | playing monopoly          | 87.6%
+Abuse                | Abuse028_x264_1380.png         | playing monopoly          | 98.7%
+Abuse                | Abuse028_x264_70.png           | playing monopoly          | 90.5%
+Abuse                | Abuse030_x264_800.png          | cleaning windows          | 34.9%
+Abuse                | Abuse028_x264_1360.png         | playing monopoly          | 98.7%
+Abuse                | Abuse030_x264_340.png          | person collecting garbage | 32.0%
+Abuse                | Abuse028_x264_1410.png         | playing monopoly          | 97.5%
+Abuse                | Abuse030_x264_520.png          | cleaning windows          | 60.5%
+Abuse                | Abuse028_x264_1090.png         | playing monopoly          | 98.3%
+Abuse                | Abuse028_x264_1210.png         | playing monopoly          | 98.6%
+Abuse                | Abuse028_x264_450.png          | playing monopoly          | 96.5%
+Abuse                | Abuse030_x264_1290.png         | hammer throw              | 20.6%
+Abuse                | Abuse030_x264_260.png          | chopping meat             | 22.1%
+Abuse                | Abuse028_x264_690.png          | playing monopoly          | 62.3%
+Abuse                | Abuse028_x264_830.png          | playing monopoly          | 95.4%
+Abuse                | Abuse030_x264_180.png          | hammer throw              | 29.3%
+Abuse                | Abuse030_x264_1440.png         | hammer throw              | 70.0%
+Abuse                | Abuse028_x264_350.png          | playing monopoly          | 91.8%
+Abuse                | Abuse028_x264_600.png          | playing monopoly          | 92.6%
+Abuse                | Abuse028_x264_710.png          | playing monopoly          | 71.2%
+Abuse                | Abuse030_x264_20.png           | hammer throw              | 47.9%
+Abuse                | Abuse028_x264_420.png          | playing monopoly          | 97.3%
+Abuse                | Abuse028_x264_940.png          | assembling computer       | 20.5%
+Abuse                | Abuse028_x264_1190.png         | playing monopoly          | 98.5%
+Abuse                | Abuse028_x264_920.png          | playing monopoly          | 93.3%
+Abuse                | Abuse030_x264_1000.png         | person collecting garbage | 33.0%
+Abuse                | Abuse028_x264_480.png          | playing monopoly          | 99.1%
+Abuse                | Abuse028_x264_1200.png         | playing monopoly          | 98.6%
+Abuse                | Abuse028_x264_730.png          | playing monopoly          | 44.8%
+Abuse                | Abuse028_x264_320.png          | playing monopoly          | 79.9%
+Abuse                | Abuse030_x264_890.png          | cleaning windows          | 24.5%
+Abuse                | Abuse028_x264_1300.png         | playing monopoly          | 97.4%
+Abuse                | Abuse028_x264_1040.png         | playing monopoly          | 96.5%
+Abuse                | Abuse030_x264_760.png          | person collecting garbage | 40.2%
+Abuse                | Abuse030_x264_250.png          | cleaning windows          | 25.7%
+Abuse                | Abuse030_x264_1270.png         | blasting sand             | 13.2%
+Abuse                | Abuse030_x264_540.png          | cleaning windows          | 61.6%
+Abuse                | Abuse028_x264_540.png          | playing monopoly          | 99.6%
+Abuse                | Abuse030_x264_110.png          | hammer throw              | 38.3%
+Abuse                | Abuse030_x264_1380.png         | hammer throw              | 75.7%
+Abuse                | Abuse028_x264_50.png           | playing monopoly          | 80.1%
+Abuse                | Abuse028_x264_810.png          | playing monopoly          | 85.2%
+Abuse                | Abuse028_x264_700.png          | playing monopoly          | 39.4%
+Abuse                | Abuse030_x264_40.png           | hammer throw              | 33.3%
+Abuse                | Abuse030_x264_1050.png         | person collecting garbage | 34.6%
+Abuse                | Abuse028_x264_660.png          | playing monopoly          | 45.4%
+Abuse                | Abuse028_x264_930.png          | playing monopoly          | 82.2%
+Abuse                | Abuse030_x264_610.png          | cleaning windows          | 51.4%
+Abuse                | Abuse028_x264_1060.png         | playing monopoly          | 98.9%
+Abuse                | Abuse030_x264_1160.png         | person collecting garbage | 36.9%
+Abuse                | Abuse030_x264_820.png          | person collecting garbage | 50.2%
+Abuse                | Abuse028_x264_380.png          | playing monopoly          | 90.1%
+Abuse                | Abuse030_x264_1300.png         | hammer throw              | 23.3%
+Abuse                | Abuse030_x264_1310.png         | hammer throw              | 29.6%
+Abuse                | Abuse030_x264_1210.png         | cleaning windows          | 28.7%
+Abuse                | Abuse030_x264_230.png          | shopping                  | 34.8%
+Abuse                | Abuse030_x264_400.png          | cleaning windows          | 35.3%
+Abuse                | Abuse030_x264_1420.png         | hammer throw              | 42.8%
+Abuse                | Abuse030_x264_120.png          | hammer throw              | 68.4%
+Abuse                | Abuse030_x264_630.png          | cleaning windows          | 44.6%
+Abuse                | Abuse030_x264_780.png          | person collecting garbage | 43.2%
+Abuse                | Abuse030_x264_1400.png         | hammer throw              | 66.0%
+Abuse                | Abuse030_x264_550.png          | cleaning windows          | 36.1%
+Abuse                | Abuse030_x264_1340.png         | hammer throw              | 27.5%
+Abuse                | Abuse030_x264_670.png          | cleaning windows          | 47.1%
+Abuse                | Abuse028_x264_370.png          | playing monopoly          | 79.8%
+Abuse                | Abuse028_x264_470.png          | playing monopoly          | 97.2%
+Abuse                | Abuse028_x264_1290.png         | playing monopoly          | 98.8%
+Abuse                | Abuse030_x264_1360.png         | hammer throw              | 31.1%
+Abuse                | Abuse028_x264_20.png           | playing monopoly          | 90.6%
+Abuse                | Abuse030_x264_920.png          | cleaning windows          | 41.9%
+Abuse                | Abuse028_x264_900.png          | playing monopoly          | 96.9%
+Abuse                | Abuse028_x264_800.png          | playing monopoly          | 69.1%
+Abuse                | Abuse030_x264_200.png          | cleaning windows          | 31.6%
+Abuse                | Abuse028_x264_910.png          | playing monopoly          | 97.8%
+Abuse                | Abuse028_x264_430.png          | playing monopoly          | 97.2%
+Abuse                | Abuse028_x264_1320.png         | playing monopoly          | 98.6%
+Abuse                | Abuse030_x264_810.png          | person collecting garbage | 36.2%
+Abuse                | Abuse030_x264_410.png          | cleaning windows          | 34.3%
+Abuse                | Abuse030_x264_30.png           | hammer throw              | 53.7%
+Abuse                | Abuse030_x264_1410.png         | hammer throw              | 54.8%
+Abuse                | Abuse030_x264_640.png          | cleaning windows          | 49.3%
+Abuse                | Abuse028_x264_310.png          | playing monopoly          | 97.0%
+Abuse                | Abuse030_x264_850.png          | person collecting garbage | 39.8%
+Abuse                | Abuse030_x264_1020.png         | cleaning windows          | 21.1%
+Abuse                | Abuse028_x264_220.png          | playing monopoly          | 86.0%
+Abuse                | Abuse030_x264_300.png          | cleaning windows          | 37.0%
+Abuse                | Abuse030_x264_1530.png         | hammer throw              | 67.9%
+Abuse                | Abuse028_x264_780.png          | playing monopoly          | 35.5%
+Abuse                | Abuse030_x264_620.png          | cleaning windows          | 51.3%
+Abuse                | Abuse030_x264_930.png          | person collecting garbage | 34.6%
+Abuse                | Abuse030_x264_170.png          | opening door              | 21.3%
+Abuse                | Abuse028_x264_1000.png         | playing monopoly          | 89.1%
+Abuse                | Abuse030_x264_100.png          | hammer throw              | 59.0%
+Abuse                | Abuse028_x264_680.png          | playing monopoly          | 72.6%
+Abuse                | Abuse030_x264_1170.png         | cleaning windows          | 24.8%
+Abuse                | Abuse030_x264_1240.png         | cleaning windows          | 18.5%
+Abuse                | Abuse028_x264_510.png          | playing monopoly          | 98.8%
+Abuse                | Abuse028_x264_620.png          | playing monopoly          | 78.3%
+Abuse                | Abuse028_x264_630.png          | playing monopoly          | 71.4%
+Abuse                | Abuse028_x264_850.png          | playing monopoly          | 91.5%
+Abuse                | Abuse028_x264_840.png          | playing monopoly          | 92.6%
+Abuse                | Abuse030_x264_190.png          | hammer throw              | 26.0%
+Abuse                | Abuse028_x264_950.png          | assembling computer       | 53.0%
+Abuse                | Abuse030_x264_560.png          | cleaning windows          | 41.0%
+Abuse                | Abuse030_x264_1320.png         | hammer throw              | 27.1%
+Abuse                | Abuse030_x264_0.png            | hammer throw              | 71.2%
+Abuse                | Abuse028_x264_60.png           | playing monopoly          | 88.0%
+Abuse                | Abuse030_x264_570.png          | cleaning windows          | 57.5%
+Abuse                | Abuse030_x264_870.png          | cleaning windows          | 36.2%
+Abuse                | Abuse030_x264_90.png           | hammer throw              | 34.1%
+Abuse                | Abuse030_x264_1390.png         | hammer throw              | 72.5%
+Abuse                | Abuse028_x264_140.png          | playing monopoly          | 95.3%
+Abuse                | Abuse028_x264_1030.png         | playing monopoly          | 96.3%
+Abuse                | Abuse030_x264_650.png          | person collecting garbage | 40.0%
+Abuse                | Abuse030_x264_380.png          | cleaning windows          | 39.3%
+Abuse                | Abuse030_x264_290.png          | cleaning windows          | 36.0%
+Abuse                | Abuse030_x264_600.png          | person collecting garbage | 43.0%
+Abuse                | Abuse028_x264_1050.png         | playing monopoly          | 99.3%
+Abuse                | Abuse030_x264_1460.png         | hammer throw              | 35.8%
+Abuse                | Abuse030_x264_1200.png         | person collecting garbage | 54.5%
+Abuse                | Abuse030_x264_1030.png         | cleaning windows          | 26.2%
+Abuse                | Abuse028_x264_190.png          | playing monopoly          | 94.0%
+Abuse                | Abuse028_x264_790.png          | playing monopoly          | 35.3%
+Abuse                | Abuse030_x264_1430.png         | hammer throw              | 39.7%
+Abuse                | Abuse028_x264_880.png          | playing monopoly          | 98.4%
+Abuse                | Abuse030_x264_330.png          | cleaning windows          | 39.5%
+Abuse                | Abuse030_x264_990.png          | cleaning windows          | 41.7%
+Abuse                | Abuse030_x264_1330.png         | hammer throw              | 32.9%
+Abuse                | Abuse030_x264_660.png          | cleaning windows          | 40.1%
+Abuse                | Abuse030_x264_420.png          | cleaning windows          | 31.9%
+Abuse                | Abuse028_x264_150.png          | playing monopoly          | 83.2%
+Abuse                | Abuse030_x264_1350.png         | hammer throw              | 32.8%
+Abuse                | Abuse028_x264_90.png           | playing monopoly          | 73.8%
+Abuse                | Abuse030_x264_1490.png         | hammer throw              | 66.6%
+Abuse                | Abuse028_x264_1100.png         | playing monopoly          | 98.6%
+Abuse                | Abuse030_x264_350.png          | cleaning windows          | 24.8%
+Abuse                | Abuse028_x264_670.png          | playing monopoly          | 56.7%
+Abuse                | Abuse030_x264_950.png          | cleaning windows          | 30.1%
+Abuse                | Abuse028_x264_1280.png         | playing monopoly          | 98.7%
+Abuse                | Abuse028_x264_10.png           | playing monopoly          | 83.2%
+Abuse                | Abuse030_x264_460.png          | cleaning windows          | 43.7%
+Abuse                | Abuse030_x264_450.png          | cleaning windows          | 48.3%
+Abuse                | Abuse028_x264_1110.png         | playing monopoly          | 98.7%
+Abuse                | Abuse028_x264_960.png          | assembling computer       | 27.3%
+Abuse                | Abuse028_x264_760.png          | playing monopoly          | 30.7%
+Abuse                | Abuse030_x264_270.png          | cleaning windows          | 22.3%
+Abuse                | Abuse028_x264_530.png          | playing monopoly          | 99.6%
+Abuse                | Abuse028_x264_460.png          | playing monopoly          | 98.2%
+Abuse                | Abuse030_x264_740.png          | person collecting garbage | 29.1%
+Abuse                | Abuse028_x264_490.png          | playing monopoly          | 99.0%
+Abuse                | Abuse030_x264_970.png          | cleaning windows          | 29.8%
+Abuse                | Abuse028_x264_590.png          | playing monopoly          | 97.2%
+Abuse                | Abuse028_x264_1240.png         | playing monopoly          | 98.5%
+Abuse                | Abuse028_x264_1310.png         | playing monopoly          | 98.5%
+Abuse                | Abuse030_x264_1090.png         | cleaning windows          | 33.1%
+Abuse                | Abuse030_x264_900.png          | cleaning windows          | 44.7%
+Abuse                | Abuse028_x264_550.png          | playing monopoly          | 99.4%
+Abuse                | Abuse030_x264_60.png           | hammer throw              | 56.1%
+Abuse                | Abuse030_x264_130.png          | hammer throw              | 51.7%
+Abuse                | Abuse030_x264_830.png          | cleaning windows          | 28.5%
+Abuse                | Abuse030_x264_490.png          | cleaning windows          | 47.4%
+Abuse                | Abuse028_x264_1400.png         | playing monopoly          | 96.3%
+Abuse                | Abuse028_x264_440.png          | playing monopoly          | 97.4%
+Abuse                | Abuse030_x264_840.png          | cleaning windows          | 25.3%
+Abuse                | Abuse030_x264_1500.png         | hammer throw              | 59.0%
+Abuse                | Abuse030_x264_940.png          | person collecting garbage | 41.0%
+Abuse                | Abuse028_x264_130.png          | playing monopoly          | 95.9%
+Abuse                | Abuse028_x264_1330.png         | playing monopoly          | 98.0%

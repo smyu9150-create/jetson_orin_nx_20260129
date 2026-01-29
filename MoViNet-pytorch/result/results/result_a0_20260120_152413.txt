@@ -1,0 +1,30 @@
+Video: /home/etri/ucfdata/Abuse/Abuse025_x264_trimmed.mp4
+Model: a0
+--------------------------------------------------
+Time:   0.0s | using a paint roller      |  26.7%
+Time:   0.6s | situp                     |  28.8%
+Time:   1.2s | situp                     |  25.1%
+Time:   1.8s | situp                     |  18.4%
+Time:   2.4s | using a microscope        |  26.4%
+Time:   3.0s | using a microscope        |  24.4%
+Time:   3.6s | using a microscope        |  27.4%
+Time:   4.2s | using a microscope        |  22.1%
+Time:   4.8s | using a microscope        |  20.8%
+Time:   5.4s | stretching arm            |  36.3%
+Time:   6.0s | using a microscope        |  26.5%
+Time:   6.6s | stretching arm            |  27.2%
+Time:   7.2s | stretching arm            |  41.6%
+Time:   7.8s | using a microscope        |  17.3%
+Time:   8.4s | using a paint roller      |  26.8%
+Time:   9.0s | using a paint roller      |  32.1%
+Time:   9.6s | playing ice hockey        |  27.6%
+Time:  10.2s | using a paint roller      |  16.8%
+Time:  10.8s | using a paint roller      |  19.2%
+Time:  11.4s | using a paint roller      |  28.6%
+Time:  12.0s | mountain climber (exercise) |  21.2%
+Time:  12.6s | mountain climber (exercise) |  17.1%
+Time:  13.2s | mountain climber (exercise) |  34.7%
+Time:  13.8s | using a paint roller      |  27.5%
+Time:  14.4s | using a paint roller      |  22.9%
+Time:  15.0s | mountain climber (exercise) |  42.5%
+Time:  15.6s | using a paint roller      |  36.1%
